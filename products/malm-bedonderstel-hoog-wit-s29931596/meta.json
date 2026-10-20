@@ -1,0 +1,189 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/malm-bedonderstel-hoog-wit-s29931596/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/malm-bedonderstel-hoog-wit-s29931596/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/malm-bedonderstel-hoog-wit__AA-2558683-1-2.pdf",
+  "name": "MALM Bedonderstel, hoog - wit 140x200 cm",
+  "color": "wit",
+  "category": "Tweepersoonsbedden",
+  "description": "MALM Bedonderstel, hoog - wit 140x200 cm. Dit veelzijdige frame zal er fantastisch uitzien met het textiel en de slaapkamermeubels die je kiest. Geschikt voor zakelijk gebruik. Je kan gemakkelijk onder het bed stofzuigen, zodat de ruimte daar schoon en stofvrij blijft.",
+  "dimensions": {
+    "width": "156 cm",
+    "height": "100 cm",
+    "depth": "209 cm"
+  },
+  "rating": "3.9",
+  "reviews": "90",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/29931596/PS01_S01_NV01/isp3/glb_draco/29931596_PS01_S01_NV01_ISP3_2.0_ba9d856cfca64ecfab719db5d9fece0e.glb?cn=pip",
+  "pdf_bytes": 1485044,
+  "page_count": 20,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 265
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 224
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 139,
+      "vectors": 1027
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 34,
+      "vectors": 178
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 1050
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 40,
+      "vectors": 664
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 1879
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 808
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 918
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 70,
+      "vectors": 1477
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 63,
+      "vectors": 2066
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 1060
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 776
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 723
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 4661
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 61,
+      "vectors": 866
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 11,
+      "vectors": 197
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 344
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 0
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2558683-1"
+  ],
+  "copyright_year": "2024",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20240916",
+  "slug": "malm-bedonderstel-hoog-wit-s29931596"
+}

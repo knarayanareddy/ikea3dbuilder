@@ -1,0 +1,156 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/markus-bureaustoel-vissle-donkergrijs-70261150/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/markus-bureaustoel-vissle-donkergrijs-70261150/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/markus-bureaustoel-vissle-donkergrijs__AA-251870-22-2.pdf",
+  "name": "MARKUS Bureaustoel - Vissle donkergrijs Medium",
+  "color": "grijs",
+  "category": "Bureaustoelen voor kantoor",
+  "description": "MARKUS Bureaustoel - Vissle donkergrijs Medium. 10 jaar garantie. Lees meer over de voorwaarden op onze website. Geschikt voor zakelijk gebruik. Het netmateriaal van de rugleuning is luchtdoorlatend; comfortabel voor de rug als je lang moet zitten. Goed te completeren met de KOLON vloerbeschermer.",
+  "dimensions": {
+    "width": "62 cm",
+    "depth": "60 cm"
+  },
+  "rating": "4.2",
+  "reviews": "141",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/70261150/PS01_S01_NV01/iqp3/glb_draco/ac12f7032c2f4749816c75ed743207f4-70261150_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 2014227,
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 6,
+      "vectors": 286
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 14,
+      "vectors": 164
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 61,
+      "vectors": 588
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 37,
+      "vectors": 1091
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 5,
+      "vectors": 362
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 33,
+      "vectors": 482
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1982,
+      "vectors": 191
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 2038,
+      "vectors": 191
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 793,
+      "vectors": 191
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 43,
+      "vectors": 551
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 24,
+      "vectors": 610
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 727
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 14,
+      "vectors": 387
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 18,
+      "vectors": 306
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 24,
+      "vectors": 642
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 57,
+      "vectors": 1288
+    }
+  ],
+  "article": [
+    "AA-251870-22"
+  ],
+  "copyright_year": "2006",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20260513",
+  "slug": "markus-bureaustoel-vissle-donkergrijs-70261150"
+}

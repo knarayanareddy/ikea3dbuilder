@@ -1,0 +1,178 @@
+{
+  "slug": "markus-bureaustoel-vissle-donkergrijs-70261150",
+  "name": "MARKUS Bureaustoel - Vissle donkergrijs Medium",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-251870-22"
+  ],
+  "copyright_year": "2006",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/markus-bureaustoel-vissle-donkergrijs__AA-251870-22-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/markus-bureaustoel-vissle-donkergrijs-70261150/",
+  "page_count": 16,
+  "build_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    7,
+    8,
+    9
+  ],
+  "n_build_pages": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 6,
+      "vectors": 286,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 14,
+      "vectors": 164,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 61,
+      "vectors": 588,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 37,
+      "vectors": 1091,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 5,
+      "vectors": 362,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 33,
+      "vectors": 482,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1982,
+      "vectors": 191,
+      "kind": "mixed"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 2038,
+      "vectors": 191,
+      "kind": "mixed"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 793,
+      "vectors": 191,
+      "kind": "mixed"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 43,
+      "vectors": 551,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 24,
+      "vectors": 610,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 727,
+      "kind": "illustration"
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 14,
+      "vectors": 387,
+      "kind": "illustration"
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 18,
+      "vectors": 306,
+      "kind": "illustration"
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 24,
+      "vectors": 642,
+      "kind": "illustration"
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 57,
+      "vectors": 1288,
+      "kind": "illustration"
+    }
+  ]
+}

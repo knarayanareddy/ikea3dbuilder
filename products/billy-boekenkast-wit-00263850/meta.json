@@ -1,0 +1,157 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/billy-boekenkast-wit__AA-1823127-9-2.pdf",
+  "name": "BILLY Boekenkast - wit 80x28x202 cm",
+  "color": "wit",
+  "category": "Boekenkasten",
+  "description": "BILLY Boekenkast - wit 80x28x202 cm. Verstelbare planken; naar behoefte aan te passen. Een enkele eenheid kan voldoende opbergruimte bieden voor een beperkte ruimte of de basis vormen voor een grotere opberger als je behoeftes veranderen. Incl. 1 vaste en 4 verstelbare planken.",
+  "dimensions": {
+    "width": "80 cm",
+    "height": "202 cm",
+    "depth": "28 cm"
+  },
+  "rating": "4.4",
+  "reviews": "177",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/00263850/PS01_S01_NV01/iqp3/glb_draco/781a5abd2974456789ad9b8a7277f752-00263850_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+  "pdf_bytes": 2094071,
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 237
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5184,
+      "vectors": 3
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5257,
+      "vectors": 3
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4522,
+      "vectors": 3
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1,
+      "vectors": 334
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 112,
+      "vectors": 1007
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 16,
+      "vectors": 2753
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 2261
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1316
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 423
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 450
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 59,
+      "vectors": 551
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 1725
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 0
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 0
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-1823127-9"
+  ],
+  "copyright_year": "2015",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20240325",
+  "slug": "billy-boekenkast-wit-00263850"
+}

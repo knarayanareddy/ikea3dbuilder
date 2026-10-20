@@ -1,0 +1,336 @@
+{
+  "slug": "friheten-3-zitsslaapbank-skiftebo-donkergrijs-50341148",
+  "name": "FRIHETEN 3-zitsslaapbank - Skiftebo donkergrijs",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2536744-1"
+  ],
+  "copyright_year": "2024",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/friheten-3-zitsslaapbank-skiftebo-donkergrijs__AA-2536744-1-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/friheten-3-zitsslaapbank-skiftebo-donkergrijs-50341148/",
+  "page_count": 32,
+  "build_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "n_build_pages": 30,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 10,
+      "vectors": 77,
+      "kind": "cover"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 162,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 120,
+      "vectors": 1406,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 16,
+      "vectors": 147,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 1542,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 56,
+      "vectors": 1082,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 343,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 65,
+      "vectors": 1433,
+      "kind": "illustration"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 34,
+      "vectors": 1209,
+      "kind": "illustration"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 69,
+      "vectors": 1506,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 400,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 950,
+      "kind": "illustration"
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 371,
+      "kind": "illustration"
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 396,
+      "kind": "illustration"
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 641,
+      "kind": "illustration"
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 150,
+      "kind": "illustration"
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 148,
+      "kind": "illustration"
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 56,
+      "vectors": 1287,
+      "kind": "illustration"
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 457,
+      "kind": "illustration"
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 517,
+      "kind": "illustration"
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 513,
+      "kind": "illustration"
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 441,
+      "kind": "illustration"
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 410,
+      "kind": "illustration"
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 362,
+      "kind": "illustration"
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 365,
+      "kind": "illustration"
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 56,
+      "vectors": 959,
+      "kind": "illustration"
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 206,
+      "kind": "illustration"
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 457,
+      "kind": "illustration"
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 245,
+      "kind": "illustration"
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 406,
+      "kind": "illustration"
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 247,
+      "kind": "illustration"
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

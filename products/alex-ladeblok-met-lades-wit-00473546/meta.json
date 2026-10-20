@@ -1,0 +1,221 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/alex-ladeblok-met-lades-wit-00473546/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/alex-ladeblok-met-lades-wit-00473546/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/alex-ladeblok-met-lades-wit__AA-2242840-5-2.pdf",
+  "name": "ALEX Ladeblok met lades - wit 36x70 cm",
+  "color": "wit",
+  "category": "Ladeblokken",
+  "description": "ALEX Ladeblok met lades - wit 36x70 cm. Het blokkeerstuk voorkomt dat de lades te ver worden uitgetrokken. Deze eenheid kan overal in de kamer worden geplaatst omdat hij ook aan de achterkant is afgewerkt. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+  "dimensions": {
+    "width": "36 cm",
+    "height": "70 cm",
+    "depth": "58 cm"
+  },
+  "rating": "4.4",
+  "reviews": "178",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/00473546/PS01_S01_NV01/rqp3/glb_draco/24f4ca29e01a44c1b06fbe328b23d1a9-00473546_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+  "pdf_bytes": 2534276,
+  "page_count": 24,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4,
+      "vectors": 1357
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 235
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 99,
+      "vectors": 999
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 1756
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 4518
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 3275
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 1087
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 4470
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1100
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1512
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 7,
+      "vectors": 2284
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 734
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 23,
+      "vectors": 808
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 1017
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 303
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1052
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 720
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 839
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 295
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1034
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 54,
+      "vectors": 3034
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 34,
+      "vectors": 2235
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 47,
+      "vectors": 787
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2242840-5"
+  ],
+  "copyright_year": "2020",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20221027",
+  "slug": "alex-ladeblok-met-lades-wit-00473546"
+}

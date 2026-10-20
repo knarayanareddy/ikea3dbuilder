@@ -1,0 +1,178 @@
+{
+  "slug": "millberget-bureaustoel-murum-zwart-70489394",
+  "name": "MILLBERGET Bureaustoel - Murum zwart",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2269641-5"
+  ],
+  "copyright_year": "2020",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/millberget-bureaustoel-murum-zwart__AA-2269641-5-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/millberget-bureaustoel-murum-zwart-70489394/",
+  "page_count": 16,
+  "build_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    7,
+    8,
+    9
+  ],
+  "n_build_pages": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 10,
+      "vectors": 801,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 83,
+      "vectors": 569,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 13,
+      "vectors": 981,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 65,
+      "vectors": 967,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 27,
+      "vectors": 763,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 16,
+      "vectors": 440,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1851,
+      "vectors": 381,
+      "kind": "mixed"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1998,
+      "vectors": 381,
+      "kind": "mixed"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 956,
+      "vectors": 381,
+      "kind": "mixed"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 43,
+      "vectors": 453,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 25,
+      "vectors": 671,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 452,
+      "kind": "illustration"
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 496,
+      "kind": "illustration"
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 25,
+      "vectors": 631,
+      "kind": "illustration"
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 2,
+      "vectors": 604,
+      "kind": "illustration"
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 57,
+      "vectors": 625,
+      "kind": "illustration"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/micke-bureau-wit-80213074/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/micke-bureau-wit-80213074/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/micke-bureau-wit__AA-476615-12-2.pdf",
+  "name": "MICKE Bureau - wit 105x50 cm",
+  "color": "wit",
+  "category": "Bureaus voor thuis",
+  "description": "MICKE Bureau - wit 105x50 cm. Met behulp van de snoeropening aan de achterkant kan je alle stekkerdozen en snoeren uit het zicht houden, maar heb je ze tegelijkertijd binnen handbereik. Door een opening in het achterpaneel kan er lucht rond de computer of andere apparatuur circuleren.",
+  "dimensions": {
+    "width": "105 cm",
+    "height": "75 cm",
+    "depth": "50 cm"
+  },
+  "rating": "4.3",
+  "reviews": "222",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/80213074/PS01_S01_NV01/rqp3/glb_draco/29aadc618231455aa1bbae7aee44c20c-80213074_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+  "pdf_bytes": 4487503,
+  "page_count": 40,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 309
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 246
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 161,
+      "vectors": 1453
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 97,
+      "vectors": 1501
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 42
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 51,
+      "vectors": 1220
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 36,
+      "vectors": 932
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 541
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 29,
+      "vectors": 1376
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 37,
+      "vectors": 595
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1506
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 66,
+      "vectors": 1935
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 1156
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 66,
+      "vectors": 2141
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 2802
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 2011
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 1066
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1159
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 63,
+      "vectors": 1765
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 1082
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1107
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 752
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 1974
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 88,
+      "vectors": 619
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 490
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1515
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1935
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 62,
+      "vectors": 1160
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 2139
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 62,
+      "vectors": 2804
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 2036
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 1079
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1167
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 76,
+      "vectors": 1717
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1040
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 73,
+      "vectors": 1047
+    },
+    {
+      "page": 37,
+      "file": "p37.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 792
+    },
+    {
+      "page": 38,
+      "file": "p38.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 37,
+      "vectors": 2006
+    },
+    {
+      "page": 39,
+      "file": "p39.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 75,
+      "vectors": 621
+    },
+    {
+      "page": 40,
+      "file": "p40.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 3858
+    }
+  ],
+  "article": [
+    "AA-476615-12"
+  ],
+  "copyright_year": "2009",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20240430",
+  "slug": "micke-bureau-wit-80213074"
+}

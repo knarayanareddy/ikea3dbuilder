@@ -1,0 +1,59 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/marius-kruk-zwart__AA-302068-12-2.pdf",
+  "name": "MARIUS Kruk - zwart 45 cm",
+  "color": "zwart",
+  "category": "Krukjes",
+  "description": "MARIUS Kruk - zwart 45 cm. De kruk is stapelbaar en neemt dus minder plaats in als hij niet wordt gebruikt Deze kruk is getest voor huishoudelijk gebruik en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 12520 en EN 1022.",
+  "dimensions": {
+    "width": "40 cm"
+  },
+  "rating": "4.6",
+  "reviews": "138",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/10135659/PS01_S01_NV01/iqp3/glb_draco/068ea6b14ed0422087938e50a4c8a617-10135659_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 2014390,
+  "page_count": 4,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 6,
+      "vectors": 142
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 131,
+      "vectors": 1647
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 103,
+      "vectors": 2235
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 72,
+      "vectors": 1033
+    }
+  ],
+  "article": [
+    "AA-302068-12"
+  ],
+  "copyright_year": "2007",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20240711",
+  "slug": "marius-kruk-zwart-10135659"
+}

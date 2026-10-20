@@ -1,0 +1,172 @@
+{
+  "slug": "billy-boekenkast-wit-00263850",
+  "name": "BILLY Boekenkast - wit 80x28x202 cm",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-1823127-9"
+  ],
+  "copyright_year": "2015",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/billy-boekenkast-wit__AA-1823127-9-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+  "page_count": 16,
+  "build_pages": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "n_build_pages": 10,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 237,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5184,
+      "vectors": 3,
+      "kind": "warnings"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5257,
+      "vectors": 3,
+      "kind": "warnings"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4522,
+      "vectors": 3,
+      "kind": "warnings"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1,
+      "vectors": 334,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 112,
+      "vectors": 1007,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 16,
+      "vectors": 2753,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 2261,
+      "kind": "illustration"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1316,
+      "kind": "illustration"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 423,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 450,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 59,
+      "vectors": 551,
+      "kind": "illustration"
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 1725,
+      "kind": "illustration"
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 0,
+      "kind": "backmatter"
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 0,
+      "kind": "backmatter"
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

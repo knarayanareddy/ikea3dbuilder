@@ -1,0 +1,317 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/hemnes-bedbank-met-3-lades-wit-90349326/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/hemnes-bedbank-met-3-lades-wit-90349326/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/hemnes-bedbank-met-3-lades-wit__AA-1913852-7-2.pdf",
+  "name": "HEMNES Bedbank met 3 lades - wit 80x200 cm",
+  "color": "wit",
+  "category": "Logeerbedden",
+  "description": "HEMNES Bedbank met 3 lades - wit 80x200 cm. Met deze bedbank creëer je snel en gemakkelijk plaats voor logés. Gewoon het bedframe uittrekken - en je hebt een heerlijk tweepersoonsbed. Het hoge basiselement zorgt voor een gezellig cocoon-gevoel. Het is gelakt en daardoor onderhoudsvriendelijk.",
+  "dimensions": {
+    "width": "89 cm",
+    "height": "83 cm",
+    "depth": "209 cm"
+  },
+  "rating": "4.3",
+  "reviews": "208",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/90349326/PS01_S01_NV01/isp3/glb_draco/90349326_PS01_S01_NV01_ISP3_2.0_085a0b85c9ff412b9ef3a5dc6f465d1e.glb?cn=pip",
+  "pdf_bytes": 5717094,
+  "page_count": 36,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 671
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 246
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 2083
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 1441
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 2742
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 3170
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 37,
+      "vectors": 2655
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 51,
+      "vectors": 2175
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2153
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1378
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 4574
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 1603
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 29,
+      "vectors": 3194
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1415
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 2410
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1177
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 40,
+      "vectors": 2260
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 23,
+      "vectors": 2036
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 4181
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 1302
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 1223
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 2121
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 2497
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 1450
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 3513
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1921
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 3386
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 2998
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 5160
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 829
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 1620
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 83,
+      "vectors": 1539
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 9,
+      "vectors": 1663
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 302
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 446
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 1
+    }
+  ],
+  "article": [
+    "AA-1913852-7"
+  ],
+  "copyright_year": "2016",
+  "pdf_title": "",
+  "pdf_created": "20180712",
+  "slug": "hemnes-bedbank-met-3-lades-wit-90349326"
+}

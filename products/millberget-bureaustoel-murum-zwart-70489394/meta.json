@@ -1,0 +1,156 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/millberget-bureaustoel-murum-zwart-70489394/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/millberget-bureaustoel-murum-zwart-70489394/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/millberget-bureaustoel-murum-zwart__AA-2269641-5-2.pdf",
+  "name": "MILLBERGET Bureaustoel - Murum zwart",
+  "color": "zwart",
+  "category": "Bureaustoelen voor thuis",
+  "description": "MILLBERGET Bureaustoel - Murum zwart. De zitting en de rugleuning van de stoel zijn geperforeerd om lucht naar je lichaam door te laten en je de hele werkdag comfortabeler te laten voelen. Deze draaistoel heeft functies om de stoel probleemloos aan je lichaam aan te passen.",
+  "dimensions": {
+    "width": "70 cm",
+    "depth": "70 cm"
+  },
+  "rating": "4",
+  "reviews": "95",
+  "glb": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb?cn=pip",
+  "pdf_bytes": 2033638,
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 10,
+      "vectors": 801
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 83,
+      "vectors": 569
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 13,
+      "vectors": 981
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 65,
+      "vectors": 967
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 27,
+      "vectors": 763
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 16,
+      "vectors": 440
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1851,
+      "vectors": 381
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1998,
+      "vectors": 381
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 956,
+      "vectors": 381
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 43,
+      "vectors": 453
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 25,
+      "vectors": 671
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 452
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 36,
+      "vectors": 496
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 25,
+      "vectors": 631
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 2,
+      "vectors": 604
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 57,
+      "vectors": 625
+    }
+  ],
+  "article": [
+    "AA-2269641-5"
+  ],
+  "copyright_year": "2020",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20260511",
+  "slug": "millberget-bureaustoel-murum-zwart-70489394"
+}

@@ -1,0 +1,349 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/kura-keerbaar-bed-wit-grenen-80253809/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/kura-keerbaar-bed-wit-grenen-80253809/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/kura-keerbaar-bed-wit-grenen__AA-514660-12-2.pdf",
+  "name": "KURA Keerbaar bed - wit/grenen 90x200 cm",
+  "color": "beige, wit",
+  "category": "Tienerbedden",
+  "description": "KURA Keerbaar bed - wit/grenen 90x200 cm. Als je het bed omkeert heb je in een handomdraai een laag of een hoog bed. Aanbevolen vanaf 6 jaar, als het bed als hoogslaper wordt gebruikt. Het is praktisch om het meubel met twee personen te monteren. Incl. lattenbodem. Exclusief matras en bedtextiel",
+  "dimensions": {
+    "width": "99 cm",
+    "height": "116 cm",
+    "depth": "209 cm"
+  },
+  "rating": "4.4",
+  "reviews": "79",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/80253809/PS01_S01_NV01/iqp3/glb_draco/b140ecf287dd46efb06f0834d6731361-80253809_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 7157956,
+  "page_count": 40,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 11,
+      "vectors": 233
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 191
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 1952
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 16,
+      "vectors": 944
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 155
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 798
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 769
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 677
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 715
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 411
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 953
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 1576
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 1870
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 675
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 529
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 746
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 685
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 825
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 1242
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 50,
+      "vectors": 1192
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1300
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 969
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 1965
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 625
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 590
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 758
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 693
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 838
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 1226
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 50,
+      "vectors": 1195
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1362
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 972
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 1966
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 535
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 736
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 673
+    },
+    {
+      "page": 37,
+      "file": "p37.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 12,
+      "vectors": 824
+    },
+    {
+      "page": 38,
+      "file": "p38.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1201
+    },
+    {
+      "page": 39,
+      "file": "p39.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 37,
+      "vectors": 1185
+    },
+    {
+      "page": 40,
+      "file": "p40.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 60,
+      "vectors": 560
+    }
+  ],
+  "article": [
+    "AA-514660-12"
+  ],
+  "copyright_year": "2011",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20241125",
+  "slug": "kura-keerbaar-bed-wit-grenen-80253809"
+}

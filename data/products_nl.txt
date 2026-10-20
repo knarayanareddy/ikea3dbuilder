@@ -1,0 +1,51 @@
+# Curated list: IKEA self-assembly (flat-pack) products, Netherlands market.
+# NOTE: ikea.com/nl "best sellers" is ~100% accessories (hooks, pans, hangers).
+# A flat-pack build library therefore needs its own list: high-volume /
+# iconic furniture that actually ships with an assembly manual.
+# One search term per line; the pipeline resolves each to a canonical product.
+
+# --- storage / shelving
+BILLY boekenkast
+KALLAX schappenwand
+IVAR kast
+EKET kast
+BESTÅ opbergcombinatie
+BRIMNES kast met deuren
+HAUGA kast
+NORDLI ladekast
+HEMNES ladekast
+PLATSA kast
+
+# --- bedroom
+MALM ladekast
+MALM bedframe
+PAX kast
+SONGESAND bedframe
+TARVA bedframe
+GULLIVER ledikant
+
+# --- seating
+POÄNG leunstoel
+KLIPPAN 2-zitsbank
+FRIHETEN hoekbank
+STOCKSUND fauteuil
+ÖRFJÄLL bureaustoel
+
+# --- tables / desks
+LACK bijzettafel
+NORDEN klaptafel
+VITTSJÖ bijzettafel
+MICKE bureau
+BEKANT bureau
+LERHAMN tafel
+GLADOM bladtafel
+
+# --- kids
+KURA bed
+TROFAST opbergcombinatie
+FLISAT wandopberging
+MAMMUT kinderstoel
+ANTILOP kinderstoel
+
+# --- utility
+RÅSKOG kar

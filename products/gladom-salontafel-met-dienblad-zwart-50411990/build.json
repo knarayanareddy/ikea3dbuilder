@@ -1,0 +1,458 @@
+{
+  "id": "gladom-salontafel-met-dienblad-zwart-50411990",
+  "version": 1,
+  "status": "review",
+  "units": "cm",
+  "product": {
+    "name": "GLADOM",
+    "typeName": "Salontafel met dienblad",
+    "article": "AA-2544925-1",
+    "dims": {
+      "w": 45,
+      "d": 45,
+      "h": 53,
+      "unit": "cm",
+      "text": "45x45x53 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/gladom-salontafel-met-dienblad-zwart__AA-2544925-1-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/gladom-salontafel-met-dienblad-zwart__0567223_pe664991_s5.jpg",
+    "reviews": 161,
+    "rating": 4.7,
+    "copyrightYear": "2024"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "warnings"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "warnings"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "backmatter"
+      }
+    ],
+    "buildPages": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "parts": [
+    {
+      "id": "TRAY",
+      "label": "Tray top",
+      "kind": "panel",
+      "size": [
+        45.0,
+        45.0,
+        4.0
+      ],
+      "at": [
+        0.0,
+        51.0,
+        0.0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG1",
+      "label": "Leg 1",
+      "kind": "panel",
+      "size": [
+        2.5,
+        49.0,
+        2.5
+      ],
+      "at": [
+        -17.75,
+        24.5,
+        -17.75
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG2",
+      "label": "Leg 2",
+      "kind": "panel",
+      "size": [
+        2.5,
+        49.0,
+        2.5
+      ],
+      "at": [
+        17.75,
+        24.5,
+        -17.75
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG3",
+      "label": "Leg 3",
+      "kind": "panel",
+      "size": [
+        2.5,
+        49.0,
+        2.5
+      ],
+      "at": [
+        -17.75,
+        24.5,
+        17.75
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG4",
+      "label": "Leg 4",
+      "kind": "panel",
+      "size": [
+        2.5,
+        49.0,
+        2.5
+      ],
+      "at": [
+        17.75,
+        24.5,
+        17.75
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "screw",
+      "label": "Screw",
+      "partNo": "122202",
+      "count": 4,
+      "color": "#c9cdd2"
+    }
+  ],
+  "steps": [
+    {
+      "title": "What is in the box",
+      "page": 1,
+      "box": [
+        0.058,
+        0.0535,
+        0.6895,
+        0.1536
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "A tray top, a frame and four screws (122202).",
+      "warn": ""
+    },
+    {
+      "title": "Lay out the frame",
+      "page": 1,
+      "box": [
+        0.148,
+        0.2376,
+        0.9495,
+        0.98
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Lay the frame down so you can reach the fixing points.",
+      "warn": ""
+    },
+    {
+      "title": "Screws for the tray",
+      "page": 4,
+      "box": [
+        0.268,
+        0.0464,
+        0.5595,
+        0.2138
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 1
+      },
+      "prose": "One screw per corner of the tray.",
+      "warn": ""
+    },
+    {
+      "title": "The remaining screws",
+      "page": 4,
+      "box": [
+        0.588,
+        0.0464,
+        0.6645,
+        0.2138
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 3
+      },
+      "prose": "Three more, kept hand-tight until the tray sits right.",
+      "warn": ""
+    },
+    {
+      "title": "Fit the tray to the frame",
+      "page": 4,
+      "box": [
+        0.0755,
+        0.257,
+        0.912,
+        0.9147
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.826
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "TRAY"
+      ],
+      "placeHardware": {},
+      "prose": "Lower the tray onto the frame and start all four screws.",
+      "warn": ""
+    },
+    {
+      "title": "Tighten",
+      "page": 5,
+      "box": [
+        0.083,
+        0.1084,
+        0.9295,
+        0.6385
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "LEG1",
+        "LEG2",
+        "LEG3",
+        "LEG4"
+      ],
+      "placeHardware": {},
+      "prose": "Tighten all four, working across the tray rather than round it.",
+      "warn": ""
+    },
+    {
+      "title": "Stand it up",
+      "page": 6,
+      "box": [
+        0.073,
+        0.0411,
+        0.897,
+        0.8085
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Turn the table the right way up and check it sits flat.",
+      "warn": ""
+    },
+    {
+      "title": "Lift the tray off",
+      "page": 7,
+      "box": [
+        0.2305,
+        0.0411,
+        0.767,
+        0.7624
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.06,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.969
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "The tray lifts clear of the frame - that is the point of it. 45x45x53 cm.",
+      "warn": ""
+    }
+  ],
+  "tags": [],
+  "notes": "Part numbers 122202 / 100006 / 123451 and the 1x-1x-1x-3x, 1x and 2x counts come from the PDF text layer; only the four 122202 screws are modelled here because the roles of 100006 and 123451 are unconfirmed. Geometry is PROVISIONAL - GLADOM has a bent-tube frame, modelled here as four straight legs, so the 3D is representative rather than accurate. Prose needs a reader who can see the drawings."
+}

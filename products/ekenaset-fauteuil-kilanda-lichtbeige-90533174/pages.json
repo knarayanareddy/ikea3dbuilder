@@ -1,0 +1,136 @@
+{
+  "slug": "ekenaset-fauteuil-kilanda-lichtbeige-90533174",
+  "name": "EKENÄSET Fauteuil - Kilanda lichtbeige",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2332891-1"
+  ],
+  "copyright_year": "2022",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/ekenaset-fauteuil-kilanda-lichtbeige__AA-2332891-1-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/ekenaset-fauteuil-kilanda-lichtbeige-90533174/",
+  "page_count": 12,
+  "build_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "n_build_pages": 10,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 10,
+      "vectors": 75,
+      "kind": "cover"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 191,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 83,
+      "vectors": 703,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 598,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 510,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 982,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 876,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 64,
+      "vectors": 1293,
+      "kind": "illustration"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 50,
+      "vectors": 1077,
+      "kind": "illustration"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 531,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 224,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

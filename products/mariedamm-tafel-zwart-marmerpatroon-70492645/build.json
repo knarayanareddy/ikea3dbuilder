@@ -1,0 +1,394 @@
+{
+  "id": "mariedamm-tafel-zwart-marmerpatroon-70492645",
+  "version": 1,
+  "status": "draft",
+  "units": "cm",
+  "product": {
+    "name": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm",
+    "typeName": "Tafel",
+    "article": "AA-2521672-2",
+    "dims": {
+      "unit": "cm",
+      "text": "105 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/mariedamm-tafel-zwart-marmerpatroon__AA-2521672-2-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/mariedamm-tafel-zwart-marmerpatroon__0916869_pe785444_s5.jpg",
+    "reviews": 106,
+    "rating": 4.7,
+    "copyrightYear": "2024"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "backmatter"
+      }
+    ],
+    "buildPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "parts": [],
+  "hardware": [],
+  "steps": [
+    {
+      "title": "Page 1",
+      "page": 1,
+      "box": [
+        0.058,
+        0.0553,
+        0.7095,
+        0.1306
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 2",
+      "page": 2,
+      "box": [
+        0.043,
+        0.034,
+        0.947,
+        0.2527
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 3",
+      "page": 3,
+      "box": [
+        0.0655,
+        0.0464,
+        0.2995,
+        0.3111
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 4",
+      "page": 4,
+      "box": [
+        0.198,
+        0.1402,
+        0.6545,
+        0.3607
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 5",
+      "page": 5,
+      "box": [
+        0.063,
+        0.0429,
+        0.887,
+        0.3943
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 6",
+      "page": 6,
+      "box": [
+        0.048,
+        0.0429,
+        0.9495,
+        0.9359
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 7",
+      "page": 7,
+      "box": [
+        0.1455,
+        0.0322,
+        0.9495,
+        0.9253
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 8",
+      "page": 8,
+      "box": [
+        0.048,
+        0.0322,
+        0.9245,
+        0.9306
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 9",
+      "page": 9,
+      "box": [
+        0.0455,
+        0.0429,
+        0.8945,
+        0.9235
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 10",
+      "page": 10,
+      "box": [
+        0.1455,
+        0.1261,
+        0.9495,
+        0.8208
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 11",
+      "page": 11,
+      "box": [
+        0.063,
+        0.1101,
+        0.9495,
+        0.5713
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    }
+  ],
+  "tags": [],
+  "notes": ""
+}

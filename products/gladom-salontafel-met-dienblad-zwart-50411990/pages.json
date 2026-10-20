@@ -1,0 +1,95 @@
+{
+  "slug": "gladom-salontafel-met-dienblad-zwart-50411990",
+  "name": "GLADOM Salontafel met dienblad - zwart 45x53 cm",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2544925-1"
+  ],
+  "copyright_year": "2024",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/gladom-salontafel-met-dienblad-zwart__AA-2544925-1-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+  "page_count": 8,
+  "build_pages": [
+    1,
+    4,
+    5,
+    6,
+    7
+  ],
+  "n_build_pages": 5,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 194,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4594,
+      "vectors": 3,
+      "kind": "warnings"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1068,
+      "vectors": 105,
+      "kind": "warnings"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 77,
+      "vectors": 823,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 495,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 33,
+      "vectors": 716,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 341,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

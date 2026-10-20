@@ -1,0 +1,230 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://flatpack.local/schema/build.schema.json",
+  "title": "Flatpack build",
+  "description": "One assembled IKEA product: its parts, its hardware, and the ordered build steps that follow the printed manual page by page. Authored with tools/, played back by viewer/.",
+  "type": "object",
+  "required": ["id", "version", "product", "manual", "steps"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "description": "Slug, matches the products/ directory name." },
+    "version": { "type": "integer", "const": 1 },
+    "status": {
+      "type": "string",
+      "enum": ["scaffold", "draft", "review", "published"],
+      "description": "scaffold = machine-generated skeleton, nothing authored yet."
+    },
+    "units": { "type": "string", "enum": ["cm", "mm", "in"], "default": "cm" },
+
+    "product": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "description": "BILLY" },
+        "typeName": { "type": "string", "description": "Boekenkast" },
+        "article": { "type": "string", "description": "IKEA 8-digit article number, 00263850" },
+        "dims": {
+          "type": "object",
+          "properties": {
+            "w": { "type": "number" }, "h": { "type": "number" }, "d": { "type": "number" },
+            "unit": { "type": "string", "default": "cm" },
+            "text": { "type": ["string", "null"], "description": "As printed, e.g. 80x28x202 cm. Null when no size is published." }
+          }
+        },
+        "url": { "type": "string", "format": "uri" },
+        "pdfUrl": { "type": "string", "format": "uri", "description": "Canonical IKEA assembly PDF." },
+        "image": { "type": "string", "description": "Catalogue image URL from the discovery sweep." },
+        "rating": { "type": ["number", "null"], "description": "Mean star rating as scraped; null when unrated." },
+        "reviews": { "type": ["number", "null"], "description": "Review count as scraped; null when unrated." },
+        "copyrightYear": { "type": ["number", "string", "null"], "description": "Year printed in the manual colophon, e.g. 2024." }
+      }
+    },
+
+    "manual": {
+      "type": "object",
+      "required": ["dir", "pages"],
+      "additionalProperties": false,
+      "properties": {
+        "dir": { "type": "string", "description": "Relative dir holding pNN.webp, usually 'manual'." },
+        "dpi": { "type": "integer", "default": 150 },
+        "pages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["page", "file", "w", "h"],
+            "properties": {
+              "page": { "type": "integer", "minimum": 1 },
+              "file": { "type": "string" },
+              "w": { "type": "integer" },
+              "h": { "type": "integer" },
+              "kind": { "type": ["string", "null"], "enum": ["cover", "warnings", "illustration", "backmatter", "mixed", "other", null] }
+            }
+          }
+        },
+        "buildPages": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "description": "Pages that actually carry the build, after triage. Drives the viewer's page strip and the step dropdown."
+        }
+      }
+    },
+
+    "parts": {
+      "type": "array",
+      "description": "Boards and sub-assemblies. Each is a box in centimetres.",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "size"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "description": "Short code, e.g. SL, TOP, MID." },
+          "label": { "type": "string", "description": "Left side" },
+          "kind": { "type": "string", "enum": ["panel", "shelf", "door", "drawer", "leg", "rail", "back", "other"] },
+          "size": {
+            "type": "array",
+            "items": { "type": "number" },
+            "minItems": 3, "maxItems": 3,
+            "description": "[width, height, thickness] in units."
+          },
+          "count": { "type": "integer", "minimum": 1, "default": 1 },
+          "color": { "type": "string", "default": "#f2ede3" },
+          "partNo": { "type": "string" },
+          "note": { "type": "string" },
+          "at": {
+            "type": "array",
+            "items": { "type": "number" },
+            "minItems": 3, "maxItems": 3,
+            "description": "Where the part ends up, in assembled-product coordinates. Cheap alternative to full keyframes; the viewer flies the part here on its step."
+          },
+          "rot": {
+            "type": "array",
+            "items": { "type": "number" },
+            "minItems": 3, "maxItems": 3,
+            "description": "Euler XYZ in degrees, assembled orientation."
+          },
+          "stage": {
+            "type": "array",
+            "items": { "type": "number" },
+            "minItems": 3, "maxItems": 3,
+            "description": "Where the part waits before its step (the 'lay it all out' position). Auto-derived if omitted."
+          },
+          "holes": {
+            "type": "array",
+            "description": "Drilled holes, in local part coordinates.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": { "type": "string", "enum": ["dowel", "camscrew", "cam", "pin", "screw", "other"] },
+                "at": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3 },
+                "axis": { "type": "string", "enum": ["x", "y", "z"] }
+              }
+            }
+          },
+          "keys": { "$ref": "#/$defs/keys", "description": "Animation keyframes. Empty until authored." }
+        }
+      }
+    },
+
+    "hardware": {
+      "type": "array",
+      "description": "Fastener types. The viewer counts these in as steps play.",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "count"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "description": "dowel, camscrew, cam, nail, pin, bracket, screw" },
+          "label": { "type": "string", "description": "Wooden dowel" },
+          "partNo": { "type": "string", "description": "IKEA spare-part number, e.g. 115980" },
+          "count": { "type": "integer", "minimum": 0 },
+          "color": { "type": "string", "default": "#c9cdd2" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+
+    "steps": {
+      "type": "array",
+      "description": "The build, in manual order. Each step maps to one drawing on one page.",
+      "items": {
+        "type": "object",
+        "required": ["title", "page"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string", "description": "Lock four cams" },
+          "page": { "type": "integer", "minimum": 1, "description": "Manual page this step's drawing lives on." },
+          "box": {
+            "type": "array",
+            "items": { "type": "number", "minimum": 0, "maximum": 1 },
+            "minItems": 4, "maxItems": 4,
+            "description": "Hotspot over the page: [x0,y0,x1,y1] normalised 0-1. Clicking the drawing jumps to this step."
+          },
+          "kind": { "type": ["string", "null"], "description": "Hardware type driven by this step, matches a hardware[].id. Null when the step uses none." },
+          "duration": { "type": "number", "minimum": 0, "default": 4, "description": "Seconds." },
+          "cam": { "oneOf": [{ "$ref": "#/$defs/cam" }, { "type": "null" }], "description": "Camera framing for this step. Null until one is captured." },
+          "placeParts": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "parts[].id values that arrive on this step."
+          },
+          "placeHardware": {
+            "type": "object",
+            "description": "hardware id -> how many go in on this step.",
+            "additionalProperties": { "type": "integer", "minimum": 0 }
+          },
+          "prose": { "type": "string", "description": "One or two sentences of real instruction." },
+          "warn": { "type": "string", "description": "Safety note rendered in the warning colour." },
+          "boxSource": { "type": "string", "enum": ["auto", "human"], "default": "auto", "description": "Provenance of `box`. The catalogue only counts a step as done when this is \"human\"." },
+          "camSource": { "type": "string", "enum": ["auto", "human"], "default": "auto", "description": "Provenance of `cam`. The catalogue only counts a step as done when this is \"human\"." }
+        }
+      }
+    },
+
+    "tags": {
+      "type": "array",
+      "description": "Floating labels anchored in 3D, used on the 'what is in the box' step.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": { "type": "string" },
+          "at": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3 },
+          "color": { "type": "string" }
+        }
+      }
+    },
+
+    "notes": { "type": "string", "description": "Authoring notes, honesty section, what is measured vs estimated." }
+  },
+
+  "$defs": {
+    "cam": {
+      "type": "object",
+      "description": "Framing. Aim the 3D camera the way the manual's drawing is drawn, so the reader never has to rotate in their head.",
+      "required": ["target", "yaw", "pitch", "dist"],
+      "properties": {
+        "target": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3 },
+        "yaw": { "type": "number", "description": "Radians." },
+        "pitch": { "type": "number", "description": "Radians." },
+        "dist": { "type": "number" }
+      }
+    },
+    "keys": {
+      "type": "array",
+      "description": "Keyframed transform at timeline time t. Parent re-parents the part into an already-built group, so moving the case moves what is joined to it.",
+      "items": {
+        "type": "object",
+        "required": ["t", "p"],
+        "properties": {
+          "t": { "type": "number", "description": "Timeline seconds / step index." },
+          "p": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3 },
+          "q": { "type": "array", "items": { "type": "number" }, "minItems": 4, "maxItems": 4, "description": "Quaternion xyzw." },
+          "parent": { "type": ["string", "null"] },
+          "spin": { "type": "number", "default": 0 },
+          "arc": { "type": "number", "default": 0, "description": "Lift the part through an arc while it travels." },
+          "linear": { "type": "boolean", "default": false }
+        }
+      }
+    }
+  }
+}

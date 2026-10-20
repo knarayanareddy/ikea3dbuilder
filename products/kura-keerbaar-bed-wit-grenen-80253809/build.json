@@ -1,0 +1,1317 @@
+{
+  "id": "kura-keerbaar-bed-wit-grenen-80253809",
+  "version": 1,
+  "status": "draft",
+  "units": "cm",
+  "product": {
+    "name": "KURA Keerbaar bed - wit/grenen 90x200 cm",
+    "typeName": "Keerbaar bed",
+    "article": "AA-514660-12",
+    "dims": {
+      "unit": "cm",
+      "text": "90x200 cm",
+      "w": 90.0,
+      "d": 200.0
+    },
+    "url": "https://www.ikea.com/nl/nl/p/kura-keerbaar-bed-wit-grenen-80253809/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/kura-keerbaar-bed-wit-grenen__AA-514660-12-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/kura-keerbaar-bed-wit-grenen__0636268_pe697768_s5.jpg",
+    "reviews": 79,
+    "rating": 4.4,
+    "copyrightYear": "2011"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      }
+    ],
+    "buildPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "parts": [],
+  "hardware": [],
+  "steps": [
+    {
+      "title": "Page 1",
+      "page": 1,
+      "box": [
+        0.0705,
+        0.0535,
+        0.7295,
+        0.1996
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 2",
+      "page": 2,
+      "box": [
+        0.0455,
+        0.0322,
+        0.9495,
+        0.2509
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 3",
+      "page": 3,
+      "box": [
+        0.0505,
+        0.0305,
+        0.9495,
+        0.6793
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 4",
+      "page": 4,
+      "box": [
+        0.048,
+        0.0376,
+        0.947,
+        0.927
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 5",
+      "page": 5,
+      "box": [
+        0.0705,
+        0.1278,
+        0.947,
+        0.4032
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 6",
+      "page": 6,
+      "box": [
+        0.0605,
+        0.0429,
+        0.822,
+        0.3235
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 7",
+      "page": 7,
+      "box": [
+        0.048,
+        0.0358,
+        0.947,
+        0.5359
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 8",
+      "page": 8,
+      "box": [
+        0.0655,
+        0.0429,
+        0.8295,
+        0.327
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 9",
+      "page": 9,
+      "box": [
+        0.0655,
+        0.0429,
+        0.892,
+        0.7961
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 10",
+      "page": 10,
+      "box": [
+        0.063,
+        0.0305,
+        0.9495,
+        0.5483
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 11",
+      "page": 11,
+      "box": [
+        0.048,
+        0.0322,
+        0.9145,
+        0.4739
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 12",
+      "page": 12,
+      "box": [
+        0.048,
+        0.0305,
+        0.947,
+        0.9784
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 13",
+      "page": 13,
+      "box": [
+        0.063,
+        0.0305,
+        0.9495,
+        0.4616
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 14",
+      "page": 14,
+      "box": [
+        0.0655,
+        0.0322,
+        0.1445,
+        0.4757
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 15",
+      "page": 15,
+      "box": [
+        0.0655,
+        0.0429,
+        0.1445,
+        0.4385
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 16",
+      "page": 16,
+      "box": [
+        0.063,
+        0.034,
+        0.147,
+        0.4368
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 17",
+      "page": 17,
+      "box": [
+        0.063,
+        0.0429,
+        0.8595,
+        0.4739
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 18",
+      "page": 18,
+      "box": [
+        0.048,
+        0.1101,
+        0.947,
+        0.3288
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 19",
+      "page": 19,
+      "box": [
+        0.063,
+        0.0429,
+        0.1445,
+        0.2492
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 20",
+      "page": 20,
+      "box": [
+        0.0605,
+        0.0322,
+        0.9345,
+        0.927
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 21",
+      "page": 21,
+      "box": [
+        0.048,
+        0.0305,
+        0.3545,
+        0.3624
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 22",
+      "page": 22,
+      "box": [
+        0.0555,
+        0.0305,
+        0.8645,
+        0.8704
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 23",
+      "page": 23,
+      "box": [
+        0.048,
+        0.0287,
+        0.9495,
+        0.927
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 24",
+      "page": 24,
+      "box": [
+        0.0655,
+        0.0429,
+        0.8345,
+        0.4279
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 25",
+      "page": 25,
+      "box": [
+        0.0655,
+        0.0429,
+        0.1445,
+        0.4421
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 26",
+      "page": 26,
+      "box": [
+        0.063,
+        0.034,
+        0.147,
+        0.4439
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 27",
+      "page": 27,
+      "box": [
+        0.063,
+        0.034,
+        0.147,
+        0.4757
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 28",
+      "page": 28,
+      "box": [
+        0.048,
+        0.1101,
+        0.947,
+        0.3288
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 29",
+      "page": 29,
+      "box": [
+        0.063,
+        0.0429,
+        0.1445,
+        0.2492
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 30",
+      "page": 30,
+      "box": [
+        0.048,
+        0.0322,
+        0.947,
+        0.927
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 31",
+      "page": 31,
+      "box": [
+        0.048,
+        0.0305,
+        0.3545,
+        0.3624
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 32",
+      "page": 32,
+      "box": [
+        0.0555,
+        0.0305,
+        0.9495,
+        0.8881
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 33",
+      "page": 33,
+      "box": [
+        0.0505,
+        0.0322,
+        0.947,
+        0.8934
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 34",
+      "page": 34,
+      "box": [
+        0.0655,
+        0.0322,
+        0.8395,
+        0.4262
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 35",
+      "page": 35,
+      "box": [
+        0.0655,
+        0.034,
+        0.1445,
+        0.4492
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 36",
+      "page": 36,
+      "box": [
+        0.063,
+        0.0393,
+        0.867,
+        0.4704
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 37",
+      "page": 37,
+      "box": [
+        0.048,
+        0.1101,
+        0.9495,
+        0.3288
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 38",
+      "page": 38,
+      "box": [
+        0.063,
+        0.0429,
+        0.147,
+        0.6226
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 39",
+      "page": 39,
+      "box": [
+        0.0555,
+        0.0322,
+        0.9495,
+        0.927
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 40",
+      "page": 40,
+      "box": [
+        0.063,
+        0.0429,
+        0.147,
+        0.2492
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    }
+  ],
+  "tags": [],
+  "notes": ""
+}

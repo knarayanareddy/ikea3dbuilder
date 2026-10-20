@@ -1,0 +1,317 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/rakkestad-kledingkast-met-3-deuren-zwartbruin__AA-2213860-4-2.pdf",
+  "name": "RAKKESTAD Kledingkast met 3 deuren - zwartbruin 117x176 cm",
+  "color": "bruin, zwart",
+  "category": "Losstaande kledingkasten",
+  "description": "RAKKESTAD Kledingkast met 3 deuren - zwartbruin 117x176 cm. Haal het meeste uit je opbergruimte en creëer een gecoördineerde look door je eigen RAKKESTAD kledingkastcombinatie samen te stellen. Aan de kledingroede is plaats voor ca. 20 hangertjes met overhemden.",
+  "dimensions": {
+    "width": "117 cm",
+    "height": "176 cm",
+    "depth": "55 cm"
+  },
+  "rating": "4.1",
+  "reviews": "63",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/70453762/PS01_S01_NV01/iqp3/glb_draco/f543a870850a43e28246b32e5e31398b-70453762_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 5184854,
+  "page_count": 36,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 9,
+      "vectors": 401
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5241,
+      "vectors": 15
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5044,
+      "vectors": 15
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5026,
+      "vectors": 15
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2969,
+      "vectors": 15
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 87,
+      "vectors": 1755
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 61,
+      "vectors": 923
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 187,
+      "vectors": 1807
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1,
+      "vectors": 2285
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 51,
+      "vectors": 3897
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 2412
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 3131
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 40,
+      "vectors": 1144
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 53,
+      "vectors": 1132
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 1056
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 731
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 564
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1361
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 1330
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1406
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 2711
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 527
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 23,
+      "vectors": 540
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 852
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 841
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1593
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5989,
+      "vectors": 1434
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1379,
+      "vectors": 1058
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 957
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 72,
+      "vectors": 2902
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 3372
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 3058
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 1153
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 554
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 6183
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2213860-4"
+  ],
+  "copyright_year": "2019",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20260813",
+  "slug": "rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762"
+}

@@ -1,0 +1,547 @@
+{
+  "id": "agam-kinderstoel-zwart-70253541",
+  "version": 1,
+  "status": "review",
+  "units": "cm",
+  "product": {
+    "name": "AGAM",
+    "typeName": "Kinderstoel",
+    "article": "AA-183046-9",
+    "dims": {
+      "w": 32,
+      "d": 30,
+      "h": 55,
+      "unit": "cm",
+      "text": "32x30x55 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/agam-kinderstoel-zwart-70253541/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/agam-kinderstoel-zwart__AA-183046-9-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/agam-kinderstoel-zwart__0727930_pe735946_s5.jpg",
+    "reviews": 60,
+    "rating": 4.6,
+    "copyrightYear": "2005"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      }
+    ],
+    "buildPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "parts": [
+    {
+      "id": "SEAT",
+      "label": "Seat",
+      "kind": "panel",
+      "size": [
+        32.0,
+        30.0,
+        2.0
+      ],
+      "at": [
+        0.0,
+        32.0,
+        0.0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "BACK",
+      "label": "Back",
+      "kind": "panel",
+      "size": [
+        32.0,
+        24.0,
+        2.0
+      ],
+      "at": [
+        0.0,
+        46.0,
+        -13.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG1",
+      "label": "Leg 1",
+      "kind": "panel",
+      "size": [
+        3.0,
+        30.0,
+        3.0
+      ],
+      "at": [
+        -12.0,
+        15.0,
+        -11.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG2",
+      "label": "Leg 2",
+      "kind": "panel",
+      "size": [
+        3.0,
+        30.0,
+        3.0
+      ],
+      "at": [
+        12.0,
+        15.0,
+        -11.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG3",
+      "label": "Leg 3",
+      "kind": "panel",
+      "size": [
+        3.0,
+        30.0,
+        3.0
+      ],
+      "at": [
+        -12.0,
+        15.0,
+        11.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG4",
+      "label": "Leg 4",
+      "kind": "panel",
+      "size": [
+        3.0,
+        30.0,
+        3.0
+      ],
+      "at": [
+        12.0,
+        15.0,
+        11.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "screw",
+      "label": "Screw",
+      "partNo": "106553",
+      "count": 16,
+      "color": "#c9cdd2"
+    }
+  ],
+  "steps": [
+    {
+      "title": "What is in the box",
+      "page": 2,
+      "box": [
+        0.0755,
+        0.0674,
+        0.7245,
+        0.2025
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.1,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.221
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Seat, back, four legs and sixteen screws (106553).",
+      "warn": ""
+    },
+    {
+      "title": "Lay the parts out",
+      "page": 2,
+      "box": [
+        0.183,
+        0.2296,
+        0.9245,
+        0.9644
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.1,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.221
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Everything on a soft surface, screws to hand.",
+      "warn": ""
+    },
+    {
+      "title": "Fit the back to the seat",
+      "page": 3,
+      "box": [
+        0.0755,
+        0.048,
+        0.927,
+        0.467
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.84,
+          -0.52
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.0
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "BACK"
+      ],
+      "placeHardware": {},
+      "prose": "Offer the back up to the seat and line the holes up.",
+      "warn": ""
+    },
+    {
+      "title": "First four screws",
+      "page": 4,
+      "box": [
+        0.098,
+        0.048,
+        0.927,
+        0.437
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.84,
+          -0.52
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.0
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 4
+      },
+      "prose": "Four screws to hold the back on. Hand-tight only.",
+      "warn": ""
+    },
+    {
+      "title": "Check the angle",
+      "page": 4,
+      "box": [
+        0.073,
+        0.4589,
+        0.927,
+        0.9644
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.84,
+          -0.52
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.0
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Make sure the back is square before anything is tightened.",
+      "warn": ""
+    },
+    {
+      "title": "Two screws, front",
+      "page": 5,
+      "box": [
+        0.073,
+        0.0497,
+        0.9295,
+        0.467
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.84,
+          -0.52
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.0
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 2
+      },
+      "prose": "Two screws into the front rail.",
+      "warn": ""
+    },
+    {
+      "title": "Two screws, back",
+      "page": 5,
+      "box": [
+        0.073,
+        0.4748,
+        0.927,
+        0.8938
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.84,
+          -0.52
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.0
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 2
+      },
+      "prose": "Two more at the back.",
+      "warn": ""
+    },
+    {
+      "title": "Legs on",
+      "page": 6,
+      "box": [
+        0.0755,
+        0.0497,
+        0.927,
+        0.9115
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.16,
+          -0.03
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.281
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "LEG1",
+        "LEG2",
+        "LEG3",
+        "LEG4"
+      ],
+      "placeHardware": {
+        "screw": 3
+      },
+      "prose": "Three screws to fix the legs.",
+      "warn": ""
+    },
+    {
+      "title": "Five screws, tighten up",
+      "page": 7,
+      "box": [
+        0.068,
+        0.048,
+        0.927,
+        0.9626
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.16,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.363
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "SEAT"
+      ],
+      "placeHardware": {
+        "screw": 5
+      },
+      "prose": "Five screws, then go round and tighten everything.",
+      "warn": ""
+    },
+    {
+      "title": "Done",
+      "page": 8,
+      "box": [
+        0.098,
+        0.0656,
+        0.7845,
+        0.8938
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          1.16,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 4.363
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "32x30x55 cm. Check it does not rock.",
+      "warn": ""
+    }
+  ],
+  "tags": [],
+  "notes": "Hardware is the strongest part of this build: 16x 106553 is stated on the parts page, and the per-page quantities (4+2+2+2+1+1+4) sum to exactly 16, so the screw counts per step are cross-checked rather than guessed. 1x 100092 and 1x 121030 are also listed and unmodelled. Geometry is PROVISIONAL - no published dimensions, so 32x30x55 cm and all sections are estimates. Hotspots are the coarse pass. Prose needs a reader who can see the drawings."
+}

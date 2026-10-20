@@ -1,0 +1,573 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/visthus-kledingkast-grijs-wit-90493446/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/visthus-kledingkast-grijs-wit-90493446/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/visthus-kledingkast-grijs-wit__AA-2314782-1-2.pdf",
+  "name": "VISTHUS Kledingkast - grijs/wit 122x59x216 cm",
+  "color": "grijs, wit",
+  "category": "Losstaande kledingkasten",
+  "description": "VISTHUS Kledingkast - grijs/wit 122x59x216 cm. De lades aan de onderkant zijn voorzien van wielen, waardoor ze makkelijk te verplaatsen zijn. De lades zijn makkelijk te openen en te sluiten. Met blokkeerstuk. Met de verstelbare poten kan je oneffenheden in de vloer opvangen. Eenvoudig te monteren.",
+  "dimensions": {
+    "width": "122 cm",
+    "height": "216 cm",
+    "depth": "59 cm"
+  },
+  "rating": "4.6",
+  "reviews": "111",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/90493446/PS01_S01_NV01/isp3/glb_draco/90493446_PS01_S01_NV01_ISP3_2.0_4cf28ab10e304b5d9a209366ff4864ae.glb?cn=pip",
+  "pdf_bytes": 8675514,
+  "page_count": 68,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 7,
+      "vectors": 391
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4207,
+      "vectors": 3
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4120,
+      "vectors": 3
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4282,
+      "vectors": 3
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 857,
+      "vectors": 3
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 588
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 71,
+      "vectors": 3181
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 96,
+      "vectors": 784
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 65,
+      "vectors": 660
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 133,
+      "vectors": 1078
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 3408
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 988
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 416
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2145
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1699
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 17,
+      "vectors": 1263
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 1368
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 1007
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 2225
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 3070
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1504
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 1936
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1598
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 1726
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1813
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 2291
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 1827
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 103,
+      "vectors": 2629
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1688
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 4007
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1921
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 4534
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 5634
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 34,
+      "vectors": 1877
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 4528
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 5777
+    },
+    {
+      "page": 37,
+      "file": "p37.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 900
+    },
+    {
+      "page": 38,
+      "file": "p38.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 2022
+    },
+    {
+      "page": 39,
+      "file": "p39.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1701
+    },
+    {
+      "page": 40,
+      "file": "p40.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 1986
+    },
+    {
+      "page": 41,
+      "file": "p41.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 1208
+    },
+    {
+      "page": 42,
+      "file": "p42.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 953
+    },
+    {
+      "page": 43,
+      "file": "p43.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 2562
+    },
+    {
+      "page": 44,
+      "file": "p44.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 3014
+    },
+    {
+      "page": 45,
+      "file": "p45.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 29,
+      "vectors": 2670
+    },
+    {
+      "page": 46,
+      "file": "p46.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1580
+    },
+    {
+      "page": 47,
+      "file": "p47.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 29,
+      "vectors": 1726
+    },
+    {
+      "page": 48,
+      "file": "p48.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 34,
+      "vectors": 1798
+    },
+    {
+      "page": 49,
+      "file": "p49.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 2291
+    },
+    {
+      "page": 50,
+      "file": "p50.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1827
+    },
+    {
+      "page": 51,
+      "file": "p51.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 90,
+      "vectors": 2631
+    },
+    {
+      "page": 52,
+      "file": "p52.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1688
+    },
+    {
+      "page": 53,
+      "file": "p53.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 4007
+    },
+    {
+      "page": 54,
+      "file": "p54.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1921
+    },
+    {
+      "page": 55,
+      "file": "p55.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 4533
+    },
+    {
+      "page": 56,
+      "file": "p56.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 5309
+    },
+    {
+      "page": 57,
+      "file": "p57.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1879
+    },
+    {
+      "page": 58,
+      "file": "p58.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 4528
+    },
+    {
+      "page": 59,
+      "file": "p59.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 33,
+      "vectors": 5617
+    },
+    {
+      "page": 60,
+      "file": "p60.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1989
+    },
+    {
+      "page": 61,
+      "file": "p61.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 735
+    },
+    {
+      "page": 62,
+      "file": "p62.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 58,
+      "vectors": 1790
+    },
+    {
+      "page": 63,
+      "file": "p63.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 54,
+      "vectors": 2293
+    },
+    {
+      "page": 64,
+      "file": "p64.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 808
+    },
+    {
+      "page": 65,
+      "file": "p65.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 736
+    },
+    {
+      "page": 66,
+      "file": "p66.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 67,
+      "vectors": 2039
+    },
+    {
+      "page": 67,
+      "file": "p67.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 1199
+    },
+    {
+      "page": 68,
+      "file": "p68.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 10642
+    }
+  ],
+  "article": [
+    "AA-2314782-1"
+  ],
+  "copyright_year": "2021",
+  "pdf_title": "document11499752371982093798.indd",
+  "pdf_created": "20210930",
+  "slug": "visthus-kledingkast-grijs-wit-90493446"
+}

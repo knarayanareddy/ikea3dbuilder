@@ -1,0 +1,21 @@
+{
+  "_comment": "BENCHMARK FIXTURE ONLY - not product data, do not ship.",
+  "_provenance": "Hand-placed hotspot rectangles read out of the minified app.js at sael.net/flatpack (BILLY, manual AA-1823127-9). Used purely to score the automatic detector in pipeline/suggest_boxes.py against an expert's hand placement. These are someone else's authored work: the point is to prove the detector agrees with a human, not to copy their boxes.",
+  "boxes": [
+    { "page": 6,  "title": "What is in the box",             "box": [0.048, 0.252, 0.955, 0.562] },
+    { "page": 6,  "title": "Dowels",                          "box": [0.048, 0.590, 0.955, 0.930] },
+    { "page": 7,  "title": "Cam screws",                      "box": [0.048, 0.040, 0.955, 0.455] },
+    { "page": 7,  "title": "Plinth, bottom, fixed shelf",     "box": [0.048, 0.478, 0.955, 0.926] },
+    { "page": 8,  "title": "Lock four cams",                  "box": [0.048, 0.032, 0.955, 0.386] },
+    { "page": 8,  "title": "The top board",                   "box": [0.048, 0.386, 0.955, 0.892] },
+    { "page": 9,  "title": "The second side",                 "box": [0.048, 0.032, 0.955, 0.450] },
+    { "page": 9,  "title": "Lock six more cams",              "box": [0.048, 0.487, 0.955, 0.912] },
+    { "page": 10, "title": "Turn it over, mark the shelf",    "box": [0.048, 0.032, 0.955, 0.523] },
+    { "page": 10, "title": "Slide the back in",               "box": [0.048, 0.500, 0.955, 0.921] },
+    { "page": 11, "title": "Rule the line",                   "box": [0.048, 0.032, 0.955, 0.412] },
+    { "page": 11, "title": "Nail the back",                   "box": [0.048, 0.427, 0.967, 0.925] },
+    { "page": 12, "title": "Stand it up, fix it to the wall", "box": [0.048, 0.243, 0.955, 0.921] },
+    { "page": 13, "title": "Shelf pins",                      "box": [0.048, 0.040, 0.520, 0.856] },
+    { "page": 13, "title": "The shelves",                     "box": [0.520, 0.040, 0.967, 0.856] }
+  ]
+}

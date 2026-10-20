@@ -1,0 +1,284 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/fredde-gamebureau-zwart-50219044/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/fredde-gamebureau-zwart-50219044/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/fredde-gamebureau-zwart__AA-2508156-1-2.pdf",
+  "name": "FREDDE Gamebureau - zwart 140/185x74x146 cm",
+  "color": "zwart",
+  "category": "Gamebureaus",
+  "description": "FREDDE Gamebureau - zwart 140/185x74x146 cm. Het bureau is extra comfortabel om aan te werken omdat je door het afgeronde blad dichter bij het bureau komt en steun krijgt voor je polsen en onderarmen. Hang de open kastjes aan de binnen- of buitenkant van het zijpaneel, afhankelijk van de behoefte.",
+  "dimensions": {
+    "height": "146 cm",
+    "depth": "74 cm"
+  },
+  "rating": "4.4",
+  "reviews": "55",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/50219044/PS01_S01_NV01/iqp3/glb_draco/b037b3d4b1d74f589bab105cc55d1c9d-50219044_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 2863560,
+  "page_count": 32,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 199
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 200
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 222,
+      "vectors": 2089
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 931
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 891
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 537
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 956
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1345
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 13,
+      "vectors": 668
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 1283
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 485
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 711
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1062
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 459
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 597
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 402
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 589
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 600
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 918
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1087
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 575
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 206
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 188
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 456
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 247
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 218
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1002
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 296
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 1646
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 268
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 718
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 104,
+      "vectors": 747
+    }
+  ],
+  "article": [
+    "AA-2508156-1"
+  ],
+  "copyright_year": "2024",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20240417",
+  "slug": "fredde-gamebureau-zwart-50219044"
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "mariedamm-tafel-zwart-marmerpatroon-70492645",
+  "name": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2521672-2"
+  ],
+  "copyright_year": "2024",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/mariedamm-tafel-zwart-marmerpatroon__AA-2521672-2-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+  "page_count": 12,
+  "build_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "n_build_pages": 11,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 9,
+      "vectors": 219,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 162,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 135,
+      "vectors": 472,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 385,
+      "kind": "illustration"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 937,
+      "kind": "illustration"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 2984,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 2809,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2733,
+      "kind": "illustration"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 2681,
+      "kind": "illustration"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 54,
+      "vectors": 960,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1466,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

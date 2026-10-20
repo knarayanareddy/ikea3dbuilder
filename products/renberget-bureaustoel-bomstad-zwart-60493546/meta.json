@@ -1,0 +1,156 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/renberget-bureaustoel-bomstad-zwart-60493546/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/renberget-bureaustoel-bomstad-zwart-60493546/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/renberget-bureaustoel-bomstad-zwart__AA-2261288-4-2.pdf",
+  "name": "RENBERGET Bureaustoel - Bomstad zwart",
+  "color": "zwart",
+  "category": "Bureaustoelen voor thuis",
+  "description": "RENBERGET Bureaustoel - Bomstad zwart. De vaste bekleding Bomstad is gemaakt van een slijtvast materiaal dat eruitziet en aanvoelt als leer. Het materiaal bestaat uit polyester en katoen, en heeft een beschermlaag van polyurethaan. Dit product is ontwikkeld en getest voor huishoudelijk gebruik.",
+  "dimensions": {
+    "width": "67 cm",
+    "depth": "67 cm"
+  },
+  "rating": "4",
+  "reviews": "59",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/60493546/PS01_S01_NV01/rqp3/glb_draco/632dfce80da64e17946c303fb38d9099-60493546_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+  "pdf_bytes": 2405316,
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 9,
+      "vectors": 931
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 14,
+      "vectors": 103
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 54,
+      "vectors": 535
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 35,
+      "vectors": 1386
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 50,
+      "vectors": 1389
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 61,
+      "vectors": 2207
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 5,
+      "vectors": 1211
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1864,
+      "vectors": 885
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1700,
+      "vectors": 885
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 1255,
+      "vectors": 885
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 21,
+      "vectors": 1327
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 34,
+      "vectors": 2299
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 34,
+      "vectors": 2027
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 15,
+      "vectors": 1766
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 2,
+      "vectors": 2012
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2261288-4"
+  ],
+  "copyright_year": "2021",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20260511",
+  "slug": "renberget-bureaustoel-bomstad-zwart-60493546"
+}

@@ -1,0 +1,732 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/slakt-bedframe-met-opberger-lattenbodem-wit-s29291956/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/slakt-bedframe-met-opberger-lattenbodem-wit-s29291956/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/slakt-bedframe-met-opberglades-wit__AA-2228158-3-2.pdf",
+  "name": "SLÄKT Bedframe met opberger+lattenbodem - wit 90x200 cm",
+  "color": "wit",
+  "category": "Tienerbedden",
+  "description": "SLÄKT Bedframe met opberger+lattenbodem - wit 90x200 cm. De lades zijn gemakkelijk te openen en ruim genoeg voor het opbergen van speelgoed, kleren en andere spullen die tieners anders graag op de grond 'opbergen'. Het bed is getest en voldoet aan de Europese norm EN 1725. Incl. lattenbodem.",
+  "dimensions": {
+    "width": "96 cm",
+    "depth": "206 cm"
+  },
+  "rating": "3.9",
+  "reviews": "71",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/29291956/PS01_S01_NV01/isp3/glb_draco/29291956_PS01_S01_NV01_ISP3_2.0_7958783a0adc4c6e9d63edd27982554e.glb?cn=pip",
+  "pdf_bytes": 11011691,
+  "page_count": 88,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 542
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 246
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 146,
+      "vectors": 1078
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 167,
+      "vectors": 1658
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 1209
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 1969
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 1560
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 929
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 1541
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 938
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 23,
+      "vectors": 740
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 1060
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1004
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 1418
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 707
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 1140
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1580
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 2559
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 3768
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1589
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 66,
+      "vectors": 2649
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 2151
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1727
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 4407
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 2702
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 51,
+      "vectors": 2074
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1525
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 2638
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 1983
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 39,
+      "vectors": 1064
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 1990
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 4035
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1575
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 79,
+      "vectors": 2658
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2151
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1727
+    },
+    {
+      "page": 37,
+      "file": "p37.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 4430
+    },
+    {
+      "page": 38,
+      "file": "p38.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 2150
+    },
+    {
+      "page": 39,
+      "file": "p39.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 1968
+    },
+    {
+      "page": 40,
+      "file": "p40.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1524
+    },
+    {
+      "page": 41,
+      "file": "p41.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 2585
+    },
+    {
+      "page": 42,
+      "file": "p42.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 65,
+      "vectors": 1970
+    },
+    {
+      "page": 43,
+      "file": "p43.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 1052
+    },
+    {
+      "page": 44,
+      "file": "p44.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 36,
+      "vectors": 1516
+    },
+    {
+      "page": 45,
+      "file": "p45.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 940
+    },
+    {
+      "page": 46,
+      "file": "p46.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 56,
+      "vectors": 1776
+    },
+    {
+      "page": 47,
+      "file": "p47.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 33,
+      "vectors": 843
+    },
+    {
+      "page": 48,
+      "file": "p48.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 36,
+      "vectors": 745
+    },
+    {
+      "page": 49,
+      "file": "p49.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 974
+    },
+    {
+      "page": 50,
+      "file": "p50.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 958
+    },
+    {
+      "page": 51,
+      "file": "p51.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1338
+    },
+    {
+      "page": 52,
+      "file": "p52.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 717
+    },
+    {
+      "page": 53,
+      "file": "p53.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1076
+    },
+    {
+      "page": 54,
+      "file": "p54.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1593
+    },
+    {
+      "page": 55,
+      "file": "p55.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 2518
+    },
+    {
+      "page": 56,
+      "file": "p56.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 3949
+    },
+    {
+      "page": 57,
+      "file": "p57.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1569
+    },
+    {
+      "page": 58,
+      "file": "p58.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 79,
+      "vectors": 2649
+    },
+    {
+      "page": 59,
+      "file": "p59.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2151
+    },
+    {
+      "page": 60,
+      "file": "p60.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1726
+    },
+    {
+      "page": 61,
+      "file": "p61.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 4360
+    },
+    {
+      "page": 62,
+      "file": "p62.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 2158
+    },
+    {
+      "page": 63,
+      "file": "p63.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 2152
+    },
+    {
+      "page": 64,
+      "file": "p64.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 1493
+    },
+    {
+      "page": 65,
+      "file": "p65.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 2635
+    },
+    {
+      "page": 66,
+      "file": "p66.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 65,
+      "vectors": 1968
+    },
+    {
+      "page": 67,
+      "file": "p67.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 1031
+    },
+    {
+      "page": 68,
+      "file": "p68.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2028
+    },
+    {
+      "page": 69,
+      "file": "p69.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 3932
+    },
+    {
+      "page": 70,
+      "file": "p70.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 43,
+      "vectors": 1490
+    },
+    {
+      "page": 71,
+      "file": "p71.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 66,
+      "vectors": 2649
+    },
+    {
+      "page": 72,
+      "file": "p72.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 2151
+    },
+    {
+      "page": 73,
+      "file": "p73.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 1726
+    },
+    {
+      "page": 74,
+      "file": "p74.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 4381
+    },
+    {
+      "page": 75,
+      "file": "p75.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 32,
+      "vectors": 2408
+    },
+    {
+      "page": 76,
+      "file": "p76.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 58,
+      "vectors": 2189
+    },
+    {
+      "page": 77,
+      "file": "p77.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 1491
+    },
+    {
+      "page": 78,
+      "file": "p78.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 31,
+      "vectors": 2481
+    },
+    {
+      "page": 79,
+      "file": "p79.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 1966
+    },
+    {
+      "page": 80,
+      "file": "p80.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 1622
+    },
+    {
+      "page": 81,
+      "file": "p81.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 1517
+    },
+    {
+      "page": 82,
+      "file": "p82.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 805
+    },
+    {
+      "page": 83,
+      "file": "p83.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1159
+    },
+    {
+      "page": 84,
+      "file": "p84.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 1714
+    },
+    {
+      "page": 85,
+      "file": "p85.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 757
+    },
+    {
+      "page": 86,
+      "file": "p86.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 1641
+    },
+    {
+      "page": 87,
+      "file": "p87.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 11,
+      "vectors": 1852
+    },
+    {
+      "page": 88,
+      "file": "p88.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2228158-3"
+  ],
+  "copyright_year": "2020",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20231127",
+  "slug": "slakt-bedframe-met-opberger-lattenbodem-wit-s29291956"
+}

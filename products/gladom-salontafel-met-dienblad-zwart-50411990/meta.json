@@ -1,0 +1,91 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/gladom-salontafel-met-dienblad-zwart__AA-2544925-1-2.pdf",
+  "name": "GLADOM Salontafel met dienblad - zwart 45x53 cm",
+  "color": "zwart",
+  "category": "Salontafels & koffietafels",
+  "description": "GLADOM Salontafel met dienblad - zwart 45x53 cm. Het afneembare blad is handig bij het serveren. Door de opstaande randen is het blad makkelijk te dragen en vermindert het risico dat glazen of schalen erafglijden. Degelijk materiaal dat lang meegaat en zorgt dat de dienbladtafel stevig is.",
+  "dimensions": {
+    "height": "53 cm"
+  },
+  "rating": "4.7",
+  "reviews": "161",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/50411990/PS01_S01_NV01/iqp3/glb_draco/8fc906eec8644ce29b2c697db26c1801-50411990_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+  "pdf_bytes": 562926,
+  "page_count": 8,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 194
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4594,
+      "vectors": 3
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1068,
+      "vectors": 105
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 77,
+      "vectors": 823
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 495
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 33,
+      "vectors": 716
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3,
+      "vectors": 341
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2544925-1"
+  ],
+  "copyright_year": "2024",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20240709",
+  "slug": "gladom-salontafel-met-dienblad-zwart-50411990"
+}

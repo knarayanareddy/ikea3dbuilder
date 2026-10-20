@@ -1,0 +1,7028 @@
+[
+  {
+    "query": "https://www.ikea.com/nl/nl/p/brimnes-kledingkast-met-3-deuren-zwart-60407577/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/brimnes-kledingkast-met-3-deuren-zwart-60407577/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/brimnes-kledingkast-met-3-deuren-zwart__AA-2207256-4-2.pdf",
+    "name": "BRIMNES Kledingkast met 3 deuren - zwart 117x50x190 cm",
+    "color": "zwart",
+    "category": "Losstaande kledingkasten",
+    "description": "BRIMNES Kledingkast met 3 deuren - zwart 117x50x190 cm. Je huis moet uiteraard een veilige plaats zijn voor het hele gezin. Daarom wordt er wandbeslag meegeleverd waarmee je de kledingkast aan de muur kan bevestigen. De spiegeldeur kan rechts, links of in het midden worden geplaatst.",
+    "dimensions": {
+      "width": "117 cm",
+      "height": "190 cm",
+      "depth": "50 cm"
+    },
+    "rating": "4.5",
+    "reviews": "308",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/90323604/PS01_S01_NV01/isp1/glb_draco/90323604_PS01_S01_NV01_ISP1_2.0_2c68adda0e9740e580ea07f008cf778a.glb?cn=pip",
+    "pdf_bytes": 4412297,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7,
+        "vectors": 116
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5105,
+        "vectors": 15
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4750,
+        "vectors": 15
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4912,
+        "vectors": 15
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3853,
+        "vectors": 15
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 87,
+        "vectors": 1776
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 976
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 92,
+        "vectors": 2063
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 468
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 305
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 743
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 2655
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 718
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 940
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1103
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1527
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 869
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1005
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 912
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 429
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 784
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 530
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 272
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1829
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 525
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 166
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5565,
+        "vectors": 1434
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1823,
+        "vectors": 1058
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1447
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 3628
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 2716
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 39,
+        "vectors": 1728
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 3075
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 2331
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 2905
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2207256-4"
+    ],
+    "copyright_year": "2019",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20250616",
+    "slug": "brimnes-kledingkast-met-3-deuren-zwart-60407577",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/micke-bureau-wit-80213074/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/micke-bureau-wit-80213074/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/micke-bureau-wit__AA-476615-12-2.pdf",
+    "name": "MICKE Bureau - wit 105x50 cm",
+    "color": "wit",
+    "category": "Bureaus voor thuis",
+    "description": "MICKE Bureau - wit 105x50 cm. Met behulp van de snoeropening aan de achterkant kan je alle stekkerdozen en snoeren uit het zicht houden, maar heb je ze tegelijkertijd binnen handbereik. Door een opening in het achterpaneel kan er lucht rond de computer of andere apparatuur circuleren.",
+    "dimensions": {
+      "width": "105 cm",
+      "height": "75 cm",
+      "depth": "50 cm"
+    },
+    "rating": "4.3",
+    "reviews": "222",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/80213074/PS01_S01_NV01/rqp3/glb_draco/29aadc618231455aa1bbae7aee44c20c-80213074_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+    "pdf_bytes": 4487503,
+    "page_count": 40,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 309
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 246
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 161,
+        "vectors": 1453
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 97,
+        "vectors": 1501
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 42
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 1220
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 36,
+        "vectors": 932
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 541
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 1376
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 37,
+        "vectors": 595
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1506
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 66,
+        "vectors": 1935
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 1156
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 66,
+        "vectors": 2141
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 2802
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 2011
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 1066
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1159
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 63,
+        "vectors": 1765
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 1082
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1107
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 752
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 1974
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 88,
+        "vectors": 619
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 490
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1515
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1935
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 62,
+        "vectors": 1160
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 2139
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 62,
+        "vectors": 2804
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 2036
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 1079
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1167
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 76,
+        "vectors": 1717
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1040
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 73,
+        "vectors": 1047
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 792
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 37,
+        "vectors": 2006
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 75,
+        "vectors": 621
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 3858
+      }
+    ],
+    "article": [
+      "AA-476615-12"
+    ],
+    "copyright_year": "2009",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240430",
+    "slug": "micke-bureau-wit-80213074",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/hemnes-bedbank-met-3-lades-wit-90349326/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/hemnes-bedbank-met-3-lades-wit-90349326/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/hemnes-bedbank-met-3-lades-wit__AA-1913852-7-2.pdf",
+    "name": "HEMNES Bedbank met 3 lades - wit 80x200 cm",
+    "color": "wit",
+    "category": "Logeerbedden",
+    "description": "HEMNES Bedbank met 3 lades - wit 80x200 cm. Met deze bedbank creëer je snel en gemakkelijk plaats voor logés. Gewoon het bedframe uittrekken - en je hebt een heerlijk tweepersoonsbed. Het hoge basiselement zorgt voor een gezellig cocoon-gevoel. Het is gelakt en daardoor onderhoudsvriendelijk.",
+    "dimensions": {
+      "width": "89 cm",
+      "height": "83 cm",
+      "depth": "209 cm"
+    },
+    "rating": "4.3",
+    "reviews": "208",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/90349326/PS01_S01_NV01/isp3/glb_draco/90349326_PS01_S01_NV01_ISP3_2.0_085a0b85c9ff412b9ef3a5dc6f465d1e.glb?cn=pip",
+    "pdf_bytes": 5717094,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 671
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 246
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 2083
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 1441
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 2742
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 3170
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 37,
+        "vectors": 2655
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 2175
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2153
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1378
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 4574
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 1603
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 3194
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1415
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 2410
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1177
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 2260
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 2036
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 4181
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 1302
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1223
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 2121
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 2497
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 1450
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 3513
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1921
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 3386
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 2998
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 5160
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 829
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 1620
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 83,
+        "vectors": 1539
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 9,
+        "vectors": 1663
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 302
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 446
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 1
+      }
+    ],
+    "article": [
+      "AA-1913852-7"
+    ],
+    "copyright_year": "2016",
+    "pdf_title": "",
+    "pdf_created": "20180712",
+    "slug": "hemnes-bedbank-met-3-lades-wit-90349326",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/alex-ladeblok-met-lades-wit-00473546/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/alex-ladeblok-met-lades-wit-00473546/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/alex-ladeblok-met-lades-wit__AA-2242840-5-2.pdf",
+    "name": "ALEX Ladeblok met lades - wit 36x70 cm",
+    "color": "wit",
+    "category": "Ladeblokken",
+    "description": "ALEX Ladeblok met lades - wit 36x70 cm. Het blokkeerstuk voorkomt dat de lades te ver worden uitgetrokken. Deze eenheid kan overal in de kamer worden geplaatst omdat hij ook aan de achterkant is afgewerkt. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+    "dimensions": {
+      "width": "36 cm",
+      "height": "70 cm",
+      "depth": "58 cm"
+    },
+    "rating": "4.4",
+    "reviews": "178",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/00473546/PS01_S01_NV01/rqp3/glb_draco/24f4ca29e01a44c1b06fbe328b23d1a9-00473546_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+    "pdf_bytes": 2534276,
+    "page_count": 24,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4,
+        "vectors": 1357
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 235
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 99,
+        "vectors": 999
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 1756
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 4518
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 3275
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 1087
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 4470
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1100
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1512
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7,
+        "vectors": 2284
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 734
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 808
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 1017
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 303
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1052
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 720
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 839
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 295
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1034
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 54,
+        "vectors": 3034
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 2235
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 47,
+        "vectors": 787
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2242840-5"
+    ],
+    "copyright_year": "2020",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20221027",
+    "slug": "alex-ladeblok-met-lades-wit-00473546",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/billy-boekenkast-wit__AA-1823127-9-2.pdf",
+    "name": "BILLY Boekenkast - wit 80x28x202 cm",
+    "color": "wit",
+    "category": "Boekenkasten",
+    "description": "BILLY Boekenkast - wit 80x28x202 cm. Verstelbare planken; naar behoefte aan te passen. Een enkele eenheid kan voldoende opbergruimte bieden voor een beperkte ruimte of de basis vormen voor een grotere opberger als je behoeftes veranderen. Incl. 1 vaste en 4 verstelbare planken.",
+    "dimensions": {
+      "width": "80 cm",
+      "height": "202 cm",
+      "depth": "28 cm"
+    },
+    "rating": "4.4",
+    "reviews": "177",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/00263850/PS01_S01_NV01/iqp3/glb_draco/781a5abd2974456789ad9b8a7277f752-00263850_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+    "pdf_bytes": 2094071,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 237
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5184,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5257,
+        "vectors": 3
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4522,
+        "vectors": 3
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1,
+        "vectors": 334
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 112,
+        "vectors": 1007
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 2753
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 2261
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1316
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 423
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 450
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 59,
+        "vectors": 551
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1725
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 0
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 0
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-1823127-9"
+    ],
+    "copyright_year": "2015",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240325",
+    "slug": "billy-boekenkast-wit-00263850",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/lack-tafeltje-wit-30449908/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/lack-tafeltje-wit-30449908/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/lack-tafeltje-wit__AA-207276-4-1.pdf",
+    "name": "LACK Tafeltje - wit 55x55 cm",
+    "color": "wit",
+    "category": "Bijzettafels",
+    "description": "LACK Tafeltje - wit 55x55 cm. Door het design van deze LACK tafel kan je deze moeiteloos voor verschillende doeleinden gebruiken en combineren met andere meubelstukken in huis. Eenvoudig te monteren. Max. belasting op het tafelblad: 10 kg. LACK tafel 35x35 cm is apart verkrijgbaar.",
+    "dimensions": {
+      "width": "55 cm",
+      "height": "45 cm",
+      "depth": "55 cm"
+    },
+    "rating": "4.7",
+    "reviews": "174",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/30449908/PS01_S01_NV01/iqp3/glb_draco/82ea6e2569c149688fc3bc4311e4c6af-30449908_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 240992,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 395
+      }
+    ],
+    "article": [
+      "AA-207276-4"
+    ],
+    "copyright_year": "2006",
+    "pdf_title": "207276",
+    "pdf_created": "20090930",
+    "slug": "lack-tafeltje-wit-30449908",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/vikhammer-nachtkastje-wit-00381764/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/vikhammer-nachtkastje-wit-00381764/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/vikhammer-nachtkastje-wit__AA-2536116-1-2.pdf",
+    "name": "VIKHAMMER Nachtkastje - wit 40x39 cm",
+    "color": "wit",
+    "category": "Nachtkastjes & bedtafeltjes",
+    "description": "VIKHAMMER Nachtkastje - wit 40x39 cm. De lades gaan door de ingebouwde zachtsluitende functie zacht en stil dicht. Bij voorkeur te completeren met de zelfklevende FIXA meubeldoppen, beschermen de ondergrond tegen slijtage. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+    "dimensions": {
+      "width": "40 cm",
+      "height": "65 cm",
+      "depth": "39 cm"
+    },
+    "rating": "4.6",
+    "reviews": "166",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/00381764/PS01_S01_NV01/rqp3/glb_draco/8c2833a8a8264b938602f8d55cf83182-00381764_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+    "pdf_bytes": 3643242,
+    "page_count": 20,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 9,
+        "vectors": 218
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4876,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 835,
+        "vectors": 3
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 245
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 138,
+        "vectors": 2176
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 1131
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 2759
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 766
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 921
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 1056
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 1719
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 1121
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1168
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 684
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 435
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 1379
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 10,
+        "vectors": 1217
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 675
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 0
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2536116-1"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240619",
+    "slug": "vikhammer-nachtkastje-wit-00381764",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/gladom-salontafel-met-dienblad-zwart-50411990/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/gladom-salontafel-met-dienblad-zwart__AA-2544925-1-2.pdf",
+    "name": "GLADOM Salontafel met dienblad - zwart 45x53 cm",
+    "color": "zwart",
+    "category": "Salontafels & koffietafels",
+    "description": "GLADOM Salontafel met dienblad - zwart 45x53 cm. Het afneembare blad is handig bij het serveren. Door de opstaande randen is het blad makkelijk te dragen en vermindert het risico dat glazen of schalen erafglijden. Degelijk materiaal dat lang meegaat en zorgt dat de dienbladtafel stevig is.",
+    "dimensions": {
+      "height": "53 cm"
+    },
+    "rating": "4.7",
+    "reviews": "161",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/50411990/PS01_S01_NV01/iqp3/glb_draco/8fc906eec8644ce29b2c697db26c1801-50411990_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+    "pdf_bytes": 562926,
+    "page_count": 8,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 194
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4594,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1068,
+        "vectors": 105
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 77,
+        "vectors": 823
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 495
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 33,
+        "vectors": 716
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3,
+        "vectors": 341
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2544925-1"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20240709",
+    "slug": "gladom-salontafel-met-dienblad-zwart-50411990",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon__AA-1914760-9-2.pdf",
+    "name": "EKET Kast met 2 deuren en 1 plank - bruin walnootpatroon 70x35x70 cm",
+    "color": null,
+    "category": "EKET kasten",
+    "description": "EKET Kast met 2 deuren en 1 plank - bruin walnootpatroon 70x35x70 cm. Een enkele eenheid kan voldoende opbergruimte bieden voor een beperkte ruimte of de basis vormen voor een grotere opberger als je behoeftes veranderen. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+    "dimensions": {
+      "width": "70 cm",
+      "height": "70 cm",
+      "depth": "35 cm"
+    },
+    "rating": "2.9",
+    "reviews": "158",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/20574587/PS01_S01_NV01/rqp3/glb_draco/9a47536148288f2bf837ef88bde0fb1b-20574587_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+    "pdf_bytes": 2747335,
+    "page_count": 28,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4,
+        "vectors": 91
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7631,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7915,
+        "vectors": 3
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6781,
+        "vectors": 3
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1521,
+        "vectors": 880
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 80,
+        "vectors": 641
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 163,
+        "vectors": 4067
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 675
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 1468
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 874
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 10,
+        "vectors": 505
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 908
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 906
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 600
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 1734
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 846
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 227
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 191
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 5293
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 533
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 458
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 137
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 71,
+        "vectors": 1073
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 508
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 39,
+        "vectors": 367
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 605
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 140
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 419
+      }
+    ],
+    "article": [
+      "AA-1914760-9"
+    ],
+    "copyright_year": "2016",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20250326",
+    "slug": "eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/markus-bureaustoel-vissle-donkergrijs-70261150/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/markus-bureaustoel-vissle-donkergrijs-70261150/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/markus-bureaustoel-vissle-donkergrijs__AA-251870-22-2.pdf",
+    "name": "MARKUS Bureaustoel - Vissle donkergrijs Medium",
+    "color": "grijs",
+    "category": "Bureaustoelen voor kantoor",
+    "description": "MARKUS Bureaustoel - Vissle donkergrijs Medium. 10 jaar garantie. Lees meer over de voorwaarden op onze website. Geschikt voor zakelijk gebruik. Het netmateriaal van de rugleuning is luchtdoorlatend; comfortabel voor de rug als je lang moet zitten. Goed te completeren met de KOLON vloerbeschermer.",
+    "dimensions": {
+      "width": "62 cm",
+      "depth": "60 cm"
+    },
+    "rating": "4.2",
+    "reviews": "141",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/70261150/PS01_S01_NV01/iqp3/glb_draco/ac12f7032c2f4749816c75ed743207f4-70261150_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 2014227,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 6,
+        "vectors": 286
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 14,
+        "vectors": 164
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 61,
+        "vectors": 588
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 37,
+        "vectors": 1091
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 5,
+        "vectors": 362
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 33,
+        "vectors": 482
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1982,
+        "vectors": 191
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 2038,
+        "vectors": 191
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 793,
+        "vectors": 191
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 43,
+        "vectors": 551
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 24,
+        "vectors": 610
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 36,
+        "vectors": 727
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 14,
+        "vectors": 387
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 18,
+        "vectors": 306
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 24,
+        "vectors": 642
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 57,
+        "vectors": 1288
+      }
+    ],
+    "article": [
+      "AA-251870-22"
+    ],
+    "copyright_year": "2006",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20260513",
+    "slug": "markus-bureaustoel-vissle-donkergrijs-70261150",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/marius-kruk-zwart__AA-302068-12-2.pdf",
+    "name": "MARIUS Kruk - zwart 45 cm",
+    "color": "zwart",
+    "category": "Krukjes",
+    "description": "MARIUS Kruk - zwart 45 cm. De kruk is stapelbaar en neemt dus minder plaats in als hij niet wordt gebruikt Deze kruk is getest voor huishoudelijk gebruik en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 12520 en EN 1022.",
+    "dimensions": {
+      "width": "40 cm"
+    },
+    "rating": "4.6",
+    "reviews": "138",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/10135659/PS01_S01_NV01/iqp3/glb_draco/068ea6b14ed0422087938e50a4c8a617-10135659_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 2014390,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 6,
+        "vectors": 142
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 131,
+        "vectors": 1647
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 103,
+        "vectors": 2235
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 72,
+        "vectors": 1033
+      }
+    ],
+    "article": [
+      "AA-302068-12"
+    ],
+    "copyright_year": "2007",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20240711",
+    "slug": "marius-kruk-zwart-10135659",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/kleppstad-kledingkast-met-3-deuren-wit-00441758/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/kleppstad-kledingkast-met-3-deuren-wit-00441758/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/kleppstad-kledingkast-met-3-deuren-wit__AA-2165937-4-2.pdf",
+    "name": "KLEPPSTAD Kledingkast met 3 deuren - wit 117x55x176 cm",
+    "color": "wit",
+    "category": "Losstaande kledingkasten",
+    "description": "KLEPPSTAD Kledingkast met 3 deuren - wit 117x55x176 cm. Haal het meeste uit je opbergruimte en creëer een gecoördineerde look door je eigen KLEPPSTAD kledingkastcombinatie samen te stellen. Kan worden gecompleteerd met meerdere KLEPPSTAD planken om een opbergoplossing op maat te maken.",
+    "dimensions": {
+      "width": "117 cm",
+      "height": "176 cm",
+      "depth": "55 cm"
+    },
+    "rating": "4.3",
+    "reviews": "133",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/00441758/PS01_S01_NV01/isp3/glb_draco/00441758_PS01_S01_NV01_ISP3_2.0_541defb9cca0435dbf941f5a7e492e4f.glb?cn=pip",
+    "pdf_bytes": 5205078,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 9,
+        "vectors": 162
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5242,
+        "vectors": 15
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5044,
+        "vectors": 15
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5026,
+        "vectors": 15
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2969,
+        "vectors": 15
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 87,
+        "vectors": 1764
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 61,
+        "vectors": 922
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 189,
+        "vectors": 1903
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1,
+        "vectors": 2285
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 3918
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 2412
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 3131
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 1144
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1139
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 1056
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 731
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 609
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1361
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1330
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1406
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 2711
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 527
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 540
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 900
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 2112
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6157,
+        "vectors": 682
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1203,
+        "vectors": 1055
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 957
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 39,
+        "vectors": 2039
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 2571
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1873
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 3523
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 1740
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 221
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 5593
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2165937-4"
+    ],
+    "copyright_year": "2019",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20260729",
+    "slug": "kleppstad-kledingkast-met-3-deuren-wit-00441758",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/skarpo-tuinstoel-buiten-beige-50575811/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/skarpo-tuinstoel-buiten-beige-50575811/",
+    "status": "error",
+    "error": "no assembly PDF on product page"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/visthus-kledingkast-grijs-wit-90493446/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/visthus-kledingkast-grijs-wit-90493446/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/visthus-kledingkast-grijs-wit__AA-2314782-1-2.pdf",
+    "name": "VISTHUS Kledingkast - grijs/wit 122x59x216 cm",
+    "color": "grijs, wit",
+    "category": "Losstaande kledingkasten",
+    "description": "VISTHUS Kledingkast - grijs/wit 122x59x216 cm. De lades aan de onderkant zijn voorzien van wielen, waardoor ze makkelijk te verplaatsen zijn. De lades zijn makkelijk te openen en te sluiten. Met blokkeerstuk. Met de verstelbare poten kan je oneffenheden in de vloer opvangen. Eenvoudig te monteren.",
+    "dimensions": {
+      "width": "122 cm",
+      "height": "216 cm",
+      "depth": "59 cm"
+    },
+    "rating": "4.6",
+    "reviews": "111",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/90493446/PS01_S01_NV01/isp3/glb_draco/90493446_PS01_S01_NV01_ISP3_2.0_4cf28ab10e304b5d9a209366ff4864ae.glb?cn=pip",
+    "pdf_bytes": 8675514,
+    "page_count": 68,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7,
+        "vectors": 391
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4207,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4120,
+        "vectors": 3
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4282,
+        "vectors": 3
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 857,
+        "vectors": 3
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 588
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 71,
+        "vectors": 3181
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 96,
+        "vectors": 784
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 65,
+        "vectors": 660
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 133,
+        "vectors": 1078
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 3408
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 988
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 416
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2145
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1699
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 17,
+        "vectors": 1263
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 1368
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 1007
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 2225
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 3070
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1504
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 1936
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1598
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 1726
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1813
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 2291
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1827
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 103,
+        "vectors": 2629
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1688
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 4007
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1921
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 4534
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 5634
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 1877
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 4528
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 5777
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 900
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 2022
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1701
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 1986
+      },
+      {
+        "page": 41,
+        "file": "p41.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 1208
+      },
+      {
+        "page": 42,
+        "file": "p42.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 953
+      },
+      {
+        "page": 43,
+        "file": "p43.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 2562
+      },
+      {
+        "page": 44,
+        "file": "p44.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 3014
+      },
+      {
+        "page": 45,
+        "file": "p45.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 2670
+      },
+      {
+        "page": 46,
+        "file": "p46.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1580
+      },
+      {
+        "page": 47,
+        "file": "p47.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 1726
+      },
+      {
+        "page": 48,
+        "file": "p48.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 1798
+      },
+      {
+        "page": 49,
+        "file": "p49.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 2291
+      },
+      {
+        "page": 50,
+        "file": "p50.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1827
+      },
+      {
+        "page": 51,
+        "file": "p51.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 90,
+        "vectors": 2631
+      },
+      {
+        "page": 52,
+        "file": "p52.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1688
+      },
+      {
+        "page": 53,
+        "file": "p53.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 4007
+      },
+      {
+        "page": 54,
+        "file": "p54.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1921
+      },
+      {
+        "page": 55,
+        "file": "p55.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 4533
+      },
+      {
+        "page": 56,
+        "file": "p56.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 5309
+      },
+      {
+        "page": 57,
+        "file": "p57.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1879
+      },
+      {
+        "page": 58,
+        "file": "p58.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 4528
+      },
+      {
+        "page": 59,
+        "file": "p59.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 33,
+        "vectors": 5617
+      },
+      {
+        "page": 60,
+        "file": "p60.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1989
+      },
+      {
+        "page": 61,
+        "file": "p61.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 735
+      },
+      {
+        "page": 62,
+        "file": "p62.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 58,
+        "vectors": 1790
+      },
+      {
+        "page": 63,
+        "file": "p63.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 54,
+        "vectors": 2293
+      },
+      {
+        "page": 64,
+        "file": "p64.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 808
+      },
+      {
+        "page": 65,
+        "file": "p65.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 736
+      },
+      {
+        "page": 66,
+        "file": "p66.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 67,
+        "vectors": 2039
+      },
+      {
+        "page": 67,
+        "file": "p67.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 1199
+      },
+      {
+        "page": 68,
+        "file": "p68.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 10642
+      }
+    ],
+    "article": [
+      "AA-2314782-1"
+    ],
+    "copyright_year": "2021",
+    "pdf_title": "document11499752371982093798.indd",
+    "pdf_created": "20210930",
+    "slug": "visthus-kledingkast-grijs-wit-90493446",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/ekenaset-fauteuil-kilanda-lichtbeige-90533174/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/ekenaset-fauteuil-kilanda-lichtbeige-90533174/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/ekenaset-fauteuil-kilanda-lichtbeige__AA-2332891-1-2.pdf",
+    "name": "EKENÄSET Fauteuil - Kilanda lichtbeige",
+    "color": "beige",
+    "category": "Loungestoelen",
+    "description": "EKENÄSET Fauteuil - Kilanda lichtbeige. Strakke lijnen en ondersteunend comfort, of je nu wilt lezen, met vrienden wilt praten of gewoon lekker wilt ontspannen. Door de hoge poten van massief hout kan je makkelijk onder de fauteuil stofzuigen of spullen eronder vandaan halen. Vaste bekleding.",
+    "dimensions": {
+      "width": "64 cm",
+      "height": "76 cm",
+      "depth": "78 cm"
+    },
+    "rating": "4.5",
+    "reviews": "107",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/90533174/PS01_S01_NV01/rqp3/glb_draco/04301bf21d839926a8df17e978fad457-90533174_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+    "pdf_bytes": 506416,
+    "page_count": 12,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 10,
+        "vectors": 75
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 191
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 83,
+        "vectors": 703
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 598
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 510
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 982
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 876
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 64,
+        "vectors": 1293
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 1077
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 531
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 224
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2332891-1"
+    ],
+    "copyright_year": "2022",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20220217",
+    "slug": "ekenaset-fauteuil-kilanda-lichtbeige-90533174",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/mariedamm-tafel-zwart-marmerpatroon__AA-2521672-2-2.pdf",
+    "name": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm",
+    "color": "zwart",
+    "category": "Ronde eettafels",
+    "description": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm. Niet al te grote afmetingen, dus ook geschikt voor kleinere ruimtes. Een ronde tafel met afgeronde randen geeft de kamer een ontspannen indruk. Het matte oppervlak beschermt tegen vingerafdrukken en is waterafstotend. Plaats voor 2-4 personen.",
+    "dimensions": {
+      "height": "75 cm"
+    },
+    "rating": "4.7",
+    "reviews": "106",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/70492645/PS01_S01_NV01/rqp3/glb_draco/0ce86a14a51522c73bae40d66f75eaf0-70492645_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+    "pdf_bytes": 2665816,
+    "page_count": 12,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 9,
+        "vectors": 219
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 162
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 135,
+        "vectors": 472
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 385
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 937
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 2984
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 2809
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2733
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 2681
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 54,
+        "vectors": 960
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1466
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2521672-2"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240705",
+    "slug": "mariedamm-tafel-zwart-marmerpatroon-70492645",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/urban-kinderstoel-wit-00165213/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/urban-kinderstoel-wit-00165213/",
+    "status": "error",
+    "error": "no assembly PDF on product page"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/millberget-bureaustoel-murum-zwart-70489394/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/millberget-bureaustoel-murum-zwart-70489394/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/millberget-bureaustoel-murum-zwart__AA-2269641-5-2.pdf",
+    "name": "MILLBERGET Bureaustoel - Murum zwart",
+    "color": "zwart",
+    "category": "Bureaustoelen voor thuis",
+    "description": "MILLBERGET Bureaustoel - Murum zwart. De zitting en de rugleuning van de stoel zijn geperforeerd om lucht naar je lichaam door te laten en je de hele werkdag comfortabeler te laten voelen. Deze draaistoel heeft functies om de stoel probleemloos aan je lichaam aan te passen.",
+    "dimensions": {
+      "width": "70 cm",
+      "depth": "70 cm"
+    },
+    "rating": "4",
+    "reviews": "95",
+    "glb": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb?cn=pip",
+    "pdf_bytes": 2033638,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 10,
+        "vectors": 801
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 83,
+        "vectors": 569
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 13,
+        "vectors": 981
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 65,
+        "vectors": 967
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 27,
+        "vectors": 763
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 16,
+        "vectors": 440
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1851,
+        "vectors": 381
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1998,
+        "vectors": 381
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 956,
+        "vectors": 381
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 43,
+        "vectors": 453
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 25,
+        "vectors": 671
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 36,
+        "vectors": 452
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 36,
+        "vectors": 496
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 25,
+        "vectors": 631
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 2,
+        "vectors": 604
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 57,
+        "vectors": 625
+      }
+    ],
+    "article": [
+      "AA-2269641-5"
+    ],
+    "copyright_year": "2020",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20260511",
+    "slug": "millberget-bureaustoel-murum-zwart-70489394",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/malm-bedonderstel-hoog-wit-s29931596/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/malm-bedonderstel-hoog-wit-s29931596/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/malm-bedonderstel-hoog-wit__AA-2558683-1-2.pdf",
+    "name": "MALM Bedonderstel, hoog - wit 140x200 cm",
+    "color": "wit",
+    "category": "Tweepersoonsbedden",
+    "description": "MALM Bedonderstel, hoog - wit 140x200 cm. Dit veelzijdige frame zal er fantastisch uitzien met het textiel en de slaapkamermeubels die je kiest. Geschikt voor zakelijk gebruik. Je kan gemakkelijk onder het bed stofzuigen, zodat de ruimte daar schoon en stofvrij blijft.",
+    "dimensions": {
+      "width": "156 cm",
+      "height": "100 cm",
+      "depth": "209 cm"
+    },
+    "rating": "3.9",
+    "reviews": "90",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/29931596/PS01_S01_NV01/isp3/glb_draco/29931596_PS01_S01_NV01_ISP3_2.0_ba9d856cfca64ecfab719db5d9fece0e.glb?cn=pip",
+    "pdf_bytes": 1485044,
+    "page_count": 20,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 265
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 224
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 139,
+        "vectors": 1027
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 178
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 1050
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 664
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 1879
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 808
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 918
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 70,
+        "vectors": 1477
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 63,
+        "vectors": 2066
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 1060
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 776
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 723
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 4661
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 61,
+        "vectors": 866
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 11,
+        "vectors": 197
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 344
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 0
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2558683-1"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20240916",
+    "slug": "malm-bedonderstel-hoog-wit-s29931596",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/kura-keerbaar-bed-wit-grenen-80253809/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/kura-keerbaar-bed-wit-grenen-80253809/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/kura-keerbaar-bed-wit-grenen__AA-514660-12-2.pdf",
+    "name": "KURA Keerbaar bed - wit/grenen 90x200 cm",
+    "color": "beige, wit",
+    "category": "Tienerbedden",
+    "description": "KURA Keerbaar bed - wit/grenen 90x200 cm. Als je het bed omkeert heb je in een handomdraai een laag of een hoog bed. Aanbevolen vanaf 6 jaar, als het bed als hoogslaper wordt gebruikt. Het is praktisch om het meubel met twee personen te monteren. Incl. lattenbodem. Exclusief matras en bedtextiel",
+    "dimensions": {
+      "width": "99 cm",
+      "height": "116 cm",
+      "depth": "209 cm"
+    },
+    "rating": "4.4",
+    "reviews": "79",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/80253809/PS01_S01_NV01/iqp3/glb_draco/b140ecf287dd46efb06f0834d6731361-80253809_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 7157956,
+    "page_count": 40,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 11,
+        "vectors": 233
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 191
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1952
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 944
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3,
+        "vectors": 155
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 798
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3,
+        "vectors": 769
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 677
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3,
+        "vectors": 715
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 411
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 953
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 1576
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1870
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 675
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 529
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 746
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 685
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 825
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1242
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 1192
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1300
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 969
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1965
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 625
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 590
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 758
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 693
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 838
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1226
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 1195
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1362
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 972
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1966
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 535
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 736
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 673
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 12,
+        "vectors": 824
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1201
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 37,
+        "vectors": 1185
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 60,
+        "vectors": 560
+      }
+    ],
+    "article": [
+      "AA-514660-12"
+    ],
+    "copyright_year": "2011",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20241125",
+    "slug": "kura-keerbaar-bed-wit-grenen-80253809",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/tuffing-frame-stapelbed-donkergrijs-00239233/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/tuffing-frame-stapelbed-donkergrijs-00239233/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/tuffing-frame-stapelbed-donkergrijs__AA-1627840-11-2.pdf",
+    "name": "TUFFING Frame stapelbed - donkergrijs 90x200 cm",
+    "color": "grijs",
+    "category": "Stapelbedden",
+    "description": "TUFFING Frame stapelbed - donkergrijs 90x200 cm. Met een stapelbed in plaats van twee losse bedden bespaar je ruimte om te spelen of voor andere activiteiten. Doordat het bed lager is dan andere stapelbedden, kan je het gemakkelijker opmaken of je kind een knuffel geven. Incl. lattenbodem.",
+    "dimensions": {
+      "width": "96.5 cm",
+      "height": "130.5 cm",
+      "depth": "207 cm"
+    },
+    "rating": "3.5",
+    "reviews": "79",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/00239233/PS01_S01_NV01/rqp3/glb_draco/069ba5dc185586d6c7fd14f67a7099f0-00239233_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+    "pdf_bytes": 3430067,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7,
+        "vectors": 674
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 191
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 132,
+        "vectors": 1733
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 55,
+        "vectors": 1834
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 803
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 360
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 1579
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 262
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 413
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 769
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 934
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 588
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 503
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 20,
+        "vectors": 1111
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 784
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 69,
+        "vectors": 1263
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1612
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 364
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 376
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 793
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 316
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 900
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 393
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 359
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1228
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 575
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 430
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 1416
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 36,
+        "vectors": 609
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 930
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1151
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 528
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 623
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 1185
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 1446
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 109,
+        "vectors": 1046
+      }
+    ],
+    "article": [
+      "AA-1627840-11"
+    ],
+    "copyright_year": "2015",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20241125",
+    "slug": "tuffing-frame-stapelbed-donkergrijs-00239233",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/slakt-bedframe-met-opberger-lattenbodem-wit-s29291956/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/slakt-bedframe-met-opberger-lattenbodem-wit-s29291956/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/slakt-bedframe-met-opberglades-wit__AA-2228158-3-2.pdf",
+    "name": "SLÄKT Bedframe met opberger+lattenbodem - wit 90x200 cm",
+    "color": "wit",
+    "category": "Tienerbedden",
+    "description": "SLÄKT Bedframe met opberger+lattenbodem - wit 90x200 cm. De lades zijn gemakkelijk te openen en ruim genoeg voor het opbergen van speelgoed, kleren en andere spullen die tieners anders graag op de grond 'opbergen'. Het bed is getest en voldoet aan de Europese norm EN 1725. Incl. lattenbodem.",
+    "dimensions": {
+      "width": "96 cm",
+      "depth": "206 cm"
+    },
+    "rating": "3.9",
+    "reviews": "71",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/29291956/PS01_S01_NV01/isp3/glb_draco/29291956_PS01_S01_NV01_ISP3_2.0_7958783a0adc4c6e9d63edd27982554e.glb?cn=pip",
+    "pdf_bytes": 11011691,
+    "page_count": 88,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 542
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 246
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 146,
+        "vectors": 1078
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 167,
+        "vectors": 1658
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 1209
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 19,
+        "vectors": 1969
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1560
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 929
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 1541
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 938
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 740
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 1060
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1004
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 1418
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 707
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 1140
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1580
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 2559
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 3768
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1589
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 66,
+        "vectors": 2649
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 2151
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1727
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 4407
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 2702
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 2074
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1525
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 2638
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 1983
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 39,
+        "vectors": 1064
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1990
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 4035
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1575
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 79,
+        "vectors": 2658
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2151
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1727
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 4430
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 2150
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 1968
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1524
+      },
+      {
+        "page": 41,
+        "file": "p41.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 2585
+      },
+      {
+        "page": 42,
+        "file": "p42.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 65,
+        "vectors": 1970
+      },
+      {
+        "page": 43,
+        "file": "p43.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 1052
+      },
+      {
+        "page": 44,
+        "file": "p44.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 36,
+        "vectors": 1516
+      },
+      {
+        "page": 45,
+        "file": "p45.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 940
+      },
+      {
+        "page": 46,
+        "file": "p46.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 56,
+        "vectors": 1776
+      },
+      {
+        "page": 47,
+        "file": "p47.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 33,
+        "vectors": 843
+      },
+      {
+        "page": 48,
+        "file": "p48.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 36,
+        "vectors": 745
+      },
+      {
+        "page": 49,
+        "file": "p49.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 974
+      },
+      {
+        "page": 50,
+        "file": "p50.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 958
+      },
+      {
+        "page": 51,
+        "file": "p51.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1338
+      },
+      {
+        "page": 52,
+        "file": "p52.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 717
+      },
+      {
+        "page": 53,
+        "file": "p53.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1076
+      },
+      {
+        "page": 54,
+        "file": "p54.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1593
+      },
+      {
+        "page": 55,
+        "file": "p55.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 2518
+      },
+      {
+        "page": 56,
+        "file": "p56.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 3949
+      },
+      {
+        "page": 57,
+        "file": "p57.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1569
+      },
+      {
+        "page": 58,
+        "file": "p58.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 79,
+        "vectors": 2649
+      },
+      {
+        "page": 59,
+        "file": "p59.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2151
+      },
+      {
+        "page": 60,
+        "file": "p60.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1726
+      },
+      {
+        "page": 61,
+        "file": "p61.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 4360
+      },
+      {
+        "page": 62,
+        "file": "p62.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 2158
+      },
+      {
+        "page": 63,
+        "file": "p63.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 2152
+      },
+      {
+        "page": 64,
+        "file": "p64.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 1493
+      },
+      {
+        "page": 65,
+        "file": "p65.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 2635
+      },
+      {
+        "page": 66,
+        "file": "p66.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 65,
+        "vectors": 1968
+      },
+      {
+        "page": 67,
+        "file": "p67.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 1031
+      },
+      {
+        "page": 68,
+        "file": "p68.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 2028
+      },
+      {
+        "page": 69,
+        "file": "p69.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 3932
+      },
+      {
+        "page": 70,
+        "file": "p70.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 43,
+        "vectors": 1490
+      },
+      {
+        "page": 71,
+        "file": "p71.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 66,
+        "vectors": 2649
+      },
+      {
+        "page": 72,
+        "file": "p72.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 2151
+      },
+      {
+        "page": 73,
+        "file": "p73.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 30,
+        "vectors": 1726
+      },
+      {
+        "page": 74,
+        "file": "p74.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 41,
+        "vectors": 4381
+      },
+      {
+        "page": 75,
+        "file": "p75.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 2408
+      },
+      {
+        "page": 76,
+        "file": "p76.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 58,
+        "vectors": 2189
+      },
+      {
+        "page": 77,
+        "file": "p77.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1491
+      },
+      {
+        "page": 78,
+        "file": "p78.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 2481
+      },
+      {
+        "page": 79,
+        "file": "p79.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 1966
+      },
+      {
+        "page": 80,
+        "file": "p80.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 1622
+      },
+      {
+        "page": 81,
+        "file": "p81.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 1517
+      },
+      {
+        "page": 82,
+        "file": "p82.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 805
+      },
+      {
+        "page": 83,
+        "file": "p83.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1159
+      },
+      {
+        "page": 84,
+        "file": "p84.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 1714
+      },
+      {
+        "page": 85,
+        "file": "p85.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 757
+      },
+      {
+        "page": 86,
+        "file": "p86.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 1641
+      },
+      {
+        "page": 87,
+        "file": "p87.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 11,
+        "vectors": 1852
+      },
+      {
+        "page": 88,
+        "file": "p88.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2228158-3"
+    ],
+    "copyright_year": "2020",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20231127",
+    "slug": "slakt-bedframe-met-opberger-lattenbodem-wit-s29291956",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/friheten-3-zitsslaapbank-skiftebo-donkergrijs-50341148/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/friheten-3-zitsslaapbank-skiftebo-donkergrijs-50341148/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/friheten-3-zitsslaapbank-skiftebo-donkergrijs__AA-2536744-1-2.pdf",
+    "name": "FRIHETEN 3-zitsslaapbank - Skiftebo donkergrijs",
+    "color": "grijs",
+    "category": "Slaapbank 3-zits",
+    "description": "FRIHETEN 3-zitsslaapbank - Skiftebo donkergrijs. Eenvoudig te veranderen in een bed. Groot; praktische opbergruimte onder de zitting. 10 jaar garantie. Lees meer over de voorwaarden in de garantiebrochure. Incl. 3 rugkussens. Vaste bekleding. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+    "dimensions": {
+      "width": "225 cm",
+      "height": "83 cm",
+      "depth": "105 cm"
+    },
+    "rating": "4.1",
+    "reviews": "68",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/50341148/PS01_S01_NV01/isp1/glb_draco/50341148_PS01_S01_NV01_ISP1_2.0_3507afe24d6f4b2d8222a7afdd53be9e.glb?cn=pip",
+    "pdf_bytes": 1218549,
+    "page_count": 32,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 10,
+        "vectors": 77
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 162
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 120,
+        "vectors": 1406
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 16,
+        "vectors": 147
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 52,
+        "vectors": 1542
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 56,
+        "vectors": 1082
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3,
+        "vectors": 343
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 65,
+        "vectors": 1433
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 1209
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 69,
+        "vectors": 1506
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 400
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 950
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 371
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 396
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 641
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 150
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 148
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 56,
+        "vectors": 1287
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 457
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 517
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 513
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 441
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 410
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 362
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 365
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 56,
+        "vectors": 959
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 206
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 457
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 245
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 406
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 247
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2536744-1"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20240627",
+    "slug": "friheten-3-zitsslaapbank-skiftebo-donkergrijs-50341148",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/rakkestad-kledingkast-met-3-deuren-zwartbruin__AA-2213860-4-2.pdf",
+    "name": "RAKKESTAD Kledingkast met 3 deuren - zwartbruin 117x176 cm",
+    "color": "bruin, zwart",
+    "category": "Losstaande kledingkasten",
+    "description": "RAKKESTAD Kledingkast met 3 deuren - zwartbruin 117x176 cm. Haal het meeste uit je opbergruimte en creëer een gecoördineerde look door je eigen RAKKESTAD kledingkastcombinatie samen te stellen. Aan de kledingroede is plaats voor ca. 20 hangertjes met overhemden.",
+    "dimensions": {
+      "width": "117 cm",
+      "height": "176 cm",
+      "depth": "55 cm"
+    },
+    "rating": "4.1",
+    "reviews": "63",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/70453762/PS01_S01_NV01/iqp3/glb_draco/f543a870850a43e28246b32e5e31398b-70453762_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 5184854,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 9,
+        "vectors": 401
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5241,
+        "vectors": 15
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5044,
+        "vectors": 15
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5026,
+        "vectors": 15
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2969,
+        "vectors": 15
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 87,
+        "vectors": 1755
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 61,
+        "vectors": 923
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 187,
+        "vectors": 1807
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1,
+        "vectors": 2285
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 51,
+        "vectors": 3897
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 2412
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 46,
+        "vectors": 3131
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 1144
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1132
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 1056
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 731
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 564
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1361
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 1330
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1406
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 2711
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 49,
+        "vectors": 527
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 23,
+        "vectors": 540
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 852
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 841
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1593
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5989,
+        "vectors": 1434
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 1379,
+        "vectors": 1058
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 957
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 72,
+        "vectors": 2902
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 3372
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 3058
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 1153
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 554
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 6183
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2213860-4"
+    ],
+    "copyright_year": "2019",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20260813",
+    "slug": "rakkestad-kledingkast-met-3-deuren-zwartbruin-70453762",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/milsbo-vitrinekast-antraciet-30396448/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/milsbo-vitrinekast-antraciet-30396448/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/milsbo-vitrinekast-antraciet__AA-2094158-9-2.pdf",
+    "name": "MILSBO Vitrinekast - antraciet 73x175 cm",
+    "color": "grijs",
+    "category": "Vitrinekasten",
+    "description": "MILSBO Vitrinekast - antraciet 73x175 cm. In een vitrinekast kan je je glaswerk of je favoriete verzameling laten zien en veilig opbergen. De glasplaten zijn verstelbaar zodat je de opbergruimte naar behoefte kan aanpassen. Door de glasplaten verspreidt het licht zich door de hele kast.",
+    "dimensions": {
+      "width": "73 cm",
+      "height": "175 cm",
+      "depth": "42 cm"
+    },
+    "rating": "4.5",
+    "reviews": "62",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/30396448/PS01_S01_NV01/isp3/glb_draco/30396448_PS01_S01_NV01_ISP3_2.0_9d79afc8017548cabf085df2b091cf76.glb?cn=pip",
+    "pdf_bytes": 4165300,
+    "page_count": 36,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 711
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3895,
+        "vectors": 3
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3753,
+        "vectors": 3
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 4061,
+        "vectors": 3
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 3255,
+        "vectors": 3
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 305
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 220,
+        "vectors": 1363
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 45,
+        "vectors": 2009
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 2558
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 86,
+        "vectors": 2615
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 58,
+        "vectors": 851
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 2734
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 2145
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 971
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 50,
+        "vectors": 1134
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 2684
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 92,
+        "vectors": 2339
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1237
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 69,
+        "vectors": 1798
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1035
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 71,
+        "vectors": 2214
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 82,
+        "vectors": 1899
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1425
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 567
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 66,
+        "vectors": 1352
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1542
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 1396
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1357
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 44,
+        "vectors": 1608
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1899
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 2512
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 70,
+        "vectors": 2739
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1576
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1957
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 0
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2094158-9"
+    ],
+    "copyright_year": "2018",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240314",
+    "slug": "milsbo-vitrinekast-antraciet-30396448",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/skogsta-eettafel-acacia-zwart-70419264/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/skogsta-eettafel-acacia-zwart-70419264/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/skogsta-eettafel-acacia-zwart__AA-1984886-6-2.pdf",
+    "name": "SKOGSTA Eettafel - acacia/zwart 235x100 cm",
+    "color": "bruin, zwart",
+    "category": "Eettafels tot 6 personen",
+    "description": "SKOGSTA Eettafel - acacia/zwart 235x100 cm. Elke tafel is uniek, met een gevarieerde adering en natuurlijke verschillen in kleur, wat de charme is van massief hout. Past perfect bij de SKOGSTA stoelen. Maar de NORDVIKEN en BERGMUND stoelen ook prima bij deze tafel om een andere stijl te creëren.",
+    "dimensions": {
+      "width": "100 cm",
+      "height": "74 cm",
+      "depth": "235 cm"
+    },
+    "rating": "4.6",
+    "reviews": "61",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/70419264/PS01_S01_NV01/isp3/glb_draco/70419264_PS01_S01_NV01_ISP3_2.0_e93bc3ce4ae84e11bb55320294528d5e.glb?cn=pip",
+    "pdf_bytes": 1638054,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 7,
+        "vectors": 258
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 212
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 110,
+        "vectors": 1041
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 395
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 958
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 59,
+        "vectors": 1104
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 1078
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 24,
+        "vectors": 971
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1296
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 742
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 12,
+        "vectors": 649
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1493
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1376
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 290
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 2,
+        "vectors": 0
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 57,
+        "vectors": 1
+      }
+    ],
+    "article": [
+      "AA-1984886-6"
+    ],
+    "copyright_year": "2016",
+    "pdf_title": "document860716355626262549.indd",
+    "pdf_created": "20191017",
+    "slug": "skogsta-eettafel-acacia-zwart-70419264",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/idanas-gestoffeerd-bed-met-opberger-gunnared-donkergrijs-10458970/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/idanas-gestoffeerd-bed-met-opberger-gunnared-donkergrijs-10458970/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/idanas-gestoffeerd-bed-met-opberger-gunnared-donkergrijs__AA-2281050-4-2.pdf",
+    "name": "IDANÄS Gestoffeerd bed met opberger - Gunnared donkergrijs 160x200 cm",
+    "color": "grijs",
+    "category": "Gestoffeerde bedden",
+    "description": "IDANÄS Gestoffeerd bed met opberger - Gunnared donkergrijs 160x200 cm. Het gestoffeerde IDANÄS bed met opbergruimte heeft een dik, aflopend hoofdeinde dat je rug comfortabel ondersteunt. Fijn voor luie ochtenden en lange avonden als je een krant of boek in bed leest. Exclusief matras en bedtextiel",
+    "dimensions": {
+      "width": "170 cm",
+      "depth": "224 cm"
+    },
+    "rating": "4.4",
+    "reviews": "60",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/10458970/PS01_S01_NV01/rqp3/glb_draco/10458970_PS01_S01_NV01_RQP3_3.0_09a40b33679446caaac403dc6b93bae9.glb?cn=pip",
+    "pdf_bytes": 6761430,
+    "page_count": 40,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 1189
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 191
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 96,
+        "vectors": 1027
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 183,
+        "vectors": 1910
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 76,
+        "vectors": 597
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 32,
+        "vectors": 1041
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 888
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 40,
+        "vectors": 1717
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1299
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 1674
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 1107
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 39,
+        "vectors": 1341
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1958
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 862
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 44,
+        "vectors": 829
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 1430
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 37,
+        "vectors": 4896
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 33,
+        "vectors": 867
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 17,
+        "vectors": 3022
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 53,
+        "vectors": 1961
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 36,
+        "vectors": 1840
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 2827
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 29,
+        "vectors": 1443
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 34,
+        "vectors": 793
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 71,
+        "vectors": 1579
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 2717
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 25,
+        "vectors": 2252
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 2225
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 2450
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 2347
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 55,
+        "vectors": 2569
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1401
+      },
+      {
+        "page": 33,
+        "file": "p33.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 2704
+      },
+      {
+        "page": 34,
+        "file": "p34.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1124
+      },
+      {
+        "page": 35,
+        "file": "p35.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 42,
+        "vectors": 3266
+      },
+      {
+        "page": 36,
+        "file": "p36.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 128,
+        "vectors": 7307
+      },
+      {
+        "page": 37,
+        "file": "p37.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 4167
+      },
+      {
+        "page": 38,
+        "file": "p38.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 1500
+      },
+      {
+        "page": 39,
+        "file": "p39.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 145,
+        "vectors": 1411
+      },
+      {
+        "page": 40,
+        "file": "p40.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 139,
+        "vectors": 1512
+      }
+    ],
+    "article": [
+      "AA-2281050-4"
+    ],
+    "copyright_year": "2021",
+    "pdf_title": "document15492829093289266729.indd",
+    "pdf_created": "20211102",
+    "slug": "idanas-gestoffeerd-bed-met-opberger-gunnared-donkergrijs-10458970",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/agam-kinderstoel-zwart-70253541/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/agam-kinderstoel-zwart-70253541/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/agam-kinderstoel-zwart__AA-183046-9-2.pdf",
+    "name": "AGAM Kinderstoel - zwart",
+    "color": "zwart",
+    "category": "Hoge kinderstoelen",
+    "description": "AGAM Kinderstoel - zwart. Juiste zithoogte voor de eettafel. Aanbevolen voor kinderen vanaf 3 jaar. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+    "dimensions": {
+      "width": "41 cm",
+      "height": "79 cm",
+      "depth": "43 cm"
+    },
+    "rating": "4.6",
+    "reviews": "60",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/70253541/PS01_S01_NV01/iqp3/glb_draco/fd839c1006734e73866c089eaf999173-70253541_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 1300695,
+    "page_count": 8,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 4,
+        "vectors": 275
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 58,
+        "vectors": 840
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 5,
+        "vectors": 896
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 34,
+        "vectors": 1263
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 39,
+        "vectors": 1152
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 51,
+        "vectors": 1307
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 40,
+        "vectors": 1977
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 62,
+        "vectors": 412
+      }
+    ],
+    "article": [
+      "AA-183046-9"
+    ],
+    "copyright_year": "2005",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20231218",
+    "slug": "agam-kinderstoel-zwart-70253541",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/renberget-bureaustoel-bomstad-zwart-60493546/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/renberget-bureaustoel-bomstad-zwart-60493546/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/renberget-bureaustoel-bomstad-zwart__AA-2261288-4-2.pdf",
+    "name": "RENBERGET Bureaustoel - Bomstad zwart",
+    "color": "zwart",
+    "category": "Bureaustoelen voor thuis",
+    "description": "RENBERGET Bureaustoel - Bomstad zwart. De vaste bekleding Bomstad is gemaakt van een slijtvast materiaal dat eruitziet en aanvoelt als leer. Het materiaal bestaat uit polyester en katoen, en heeft een beschermlaag van polyurethaan. Dit product is ontwikkeld en getest voor huishoudelijk gebruik.",
+    "dimensions": {
+      "width": "67 cm",
+      "depth": "67 cm"
+    },
+    "rating": "4",
+    "reviews": "59",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/60493546/PS01_S01_NV01/rqp3/glb_draco/632dfce80da64e17946c303fb38d9099-60493546_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+    "pdf_bytes": 2405316,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 9,
+        "vectors": 931
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 14,
+        "vectors": 103
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 54,
+        "vectors": 535
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 35,
+        "vectors": 1386
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 50,
+        "vectors": 1389
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 61,
+        "vectors": 2207
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 5,
+        "vectors": 1211
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1864,
+        "vectors": 885
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1700,
+        "vectors": 885
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 1255,
+        "vectors": 885
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 21,
+        "vectors": 1327
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 34,
+        "vectors": 2299
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 34,
+        "vectors": 2027
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 15,
+        "vectors": 1766
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 2,
+        "vectors": 2012
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 875,
+        "h": 1241,
+        "chars": 57,
+        "vectors": 0
+      }
+    ],
+    "article": [
+      "AA-2261288-4"
+    ],
+    "copyright_year": "2021",
+    "pdf_title": "Assembly Instruction",
+    "pdf_created": "20260511",
+    "slug": "renberget-bureaustoel-bomstad-zwart-60493546",
+    "status": "ok"
+  },
+  {
+    "query": "https://www.ikea.com/nl/nl/p/fredde-gamebureau-zwart-50219044/",
+    "resolved_by": "url",
+    "url": "https://www.ikea.com/nl/nl/p/fredde-gamebureau-zwart-50219044/",
+    "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/fredde-gamebureau-zwart__AA-2508156-1-2.pdf",
+    "name": "FREDDE Gamebureau - zwart 140/185x74x146 cm",
+    "color": "zwart",
+    "category": "Gamebureaus",
+    "description": "FREDDE Gamebureau - zwart 140/185x74x146 cm. Het bureau is extra comfortabel om aan te werken omdat je door het afgeronde blad dichter bij het bureau komt en steun krijgt voor je polsen en onderarmen. Hang de open kastjes aan de binnen- of buitenkant van het zijpaneel, afhankelijk van de behoefte.",
+    "dimensions": {
+      "height": "146 cm",
+      "depth": "74 cm"
+    },
+    "rating": "4.4",
+    "reviews": "55",
+    "glb": "https://web-api.ikea.com/dimma/assets/1.2/50219044/PS01_S01_NV01/iqp3/glb_draco/b037b3d4b1d74f589bab105cc55d1c9d-50219044_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+    "pdf_bytes": 2863560,
+    "page_count": 32,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 6,
+        "vectors": 199
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 14,
+        "vectors": 200
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 222,
+        "vectors": 2089
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 931
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 891
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 26,
+        "vectors": 537
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 15,
+        "vectors": 956
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1345
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 13,
+        "vectors": 668
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 1283
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 485
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 711
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 1062
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 31,
+        "vectors": 459
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 597
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 38,
+        "vectors": 402
+      },
+      {
+        "page": 17,
+        "file": "p17.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 589
+      },
+      {
+        "page": 18,
+        "file": "p18.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 48,
+        "vectors": 600
+      },
+      {
+        "page": 19,
+        "file": "p19.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 22,
+        "vectors": 918
+      },
+      {
+        "page": 20,
+        "file": "p20.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 28,
+        "vectors": 1087
+      },
+      {
+        "page": 21,
+        "file": "p21.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 575
+      },
+      {
+        "page": 22,
+        "file": "p22.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 206
+      },
+      {
+        "page": 23,
+        "file": "p23.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 188
+      },
+      {
+        "page": 24,
+        "file": "p24.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 456
+      },
+      {
+        "page": 25,
+        "file": "p25.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 8,
+        "vectors": 247
+      },
+      {
+        "page": 26,
+        "file": "p26.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 21,
+        "vectors": 218
+      },
+      {
+        "page": 27,
+        "file": "p27.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 1002
+      },
+      {
+        "page": 28,
+        "file": "p28.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 27,
+        "vectors": 296
+      },
+      {
+        "page": 29,
+        "file": "p29.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 5,
+        "vectors": 1646
+      },
+      {
+        "page": 30,
+        "file": "p30.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 18,
+        "vectors": 268
+      },
+      {
+        "page": 31,
+        "file": "p31.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 35,
+        "vectors": 718
+      },
+      {
+        "page": 32,
+        "file": "p32.webp",
+        "w": 1241,
+        "h": 1754,
+        "chars": 104,
+        "vectors": 747
+      }
+    ],
+    "article": [
+      "AA-2508156-1"
+    ],
+    "copyright_year": "2024",
+    "pdf_title": "Assembly instruction",
+    "pdf_created": "20240417",
+    "slug": "fredde-gamebureau-zwart-50219044",
+    "status": "ok"
+  }
+]

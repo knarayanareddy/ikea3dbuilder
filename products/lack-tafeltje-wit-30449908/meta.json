@@ -1,0 +1,37 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/lack-tafeltje-wit-30449908/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/lack-tafeltje-wit-30449908/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/lack-tafeltje-wit__AA-207276-4-1.pdf",
+  "name": "LACK Tafeltje - wit 55x55 cm",
+  "color": "wit",
+  "category": "Bijzettafels",
+  "description": "LACK Tafeltje - wit 55x55 cm. Door het design van deze LACK tafel kan je deze moeiteloos voor verschillende doeleinden gebruiken en combineren met andere meubelstukken in huis. Eenvoudig te monteren. Max. belasting op het tafelblad: 10 kg. LACK tafel 35x35 cm is apart verkrijgbaar.",
+  "dimensions": {
+    "width": "55 cm",
+    "height": "45 cm",
+    "depth": "55 cm"
+  },
+  "rating": "4.7",
+  "reviews": "174",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/30449908/PS01_S01_NV01/iqp3/glb_draco/82ea6e2569c149688fc3bc4311e4c6af-30449908_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 240992,
+  "page_count": 1,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 395
+    }
+  ],
+  "article": [
+    "AA-207276-4"
+  ],
+  "copyright_year": "2006",
+  "pdf_title": "207276",
+  "pdf_created": "20090930",
+  "slug": "lack-tafeltje-wit-30449908"
+}

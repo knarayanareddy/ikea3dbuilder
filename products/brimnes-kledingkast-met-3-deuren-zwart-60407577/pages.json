@@ -1,0 +1,372 @@
+{
+  "slug": "brimnes-kledingkast-met-3-deuren-zwart-60407577",
+  "name": "BRIMNES Kledingkast met 3 deuren - zwart 117x50x190 cm",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-2207256-4"
+  ],
+  "copyright_year": "2019",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/brimnes-kledingkast-met-3-deuren-zwart__AA-2207256-4-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/brimnes-kledingkast-met-3-deuren-zwart-60407577/",
+  "page_count": 36,
+  "build_pages": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    27,
+    28
+  ],
+  "n_build_pages": 30,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 7,
+      "vectors": 116,
+      "kind": "cover"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5105,
+      "vectors": 15,
+      "kind": "warnings"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4750,
+      "vectors": 15,
+      "kind": "warnings"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4912,
+      "vectors": 15,
+      "kind": "warnings"
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 3853,
+      "vectors": 15,
+      "kind": "warnings"
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 87,
+      "vectors": 1776,
+      "kind": "illustration"
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 976,
+      "kind": "illustration"
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 92,
+      "vectors": 2063,
+      "kind": "illustration"
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 468,
+      "kind": "illustration"
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 26,
+      "vectors": 305,
+      "kind": "illustration"
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6,
+      "vectors": 743,
+      "kind": "illustration"
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 19,
+      "vectors": 2655,
+      "kind": "illustration"
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 718,
+      "kind": "illustration"
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 940,
+      "kind": "illustration"
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1103,
+      "kind": "illustration"
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1527,
+      "kind": "illustration"
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 869,
+      "kind": "illustration"
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 1005,
+      "kind": "illustration"
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 912,
+      "kind": "illustration"
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 429,
+      "kind": "illustration"
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 784,
+      "kind": "illustration"
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 530,
+      "kind": "illustration"
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 272,
+      "kind": "illustration"
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 18,
+      "vectors": 1829,
+      "kind": "illustration"
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 525,
+      "kind": "illustration"
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 166,
+      "kind": "illustration"
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5565,
+      "vectors": 1434,
+      "kind": "mixed"
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1823,
+      "vectors": 1058,
+      "kind": "mixed"
+    },
+    {
+      "page": 29,
+      "file": "p29.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 1447,
+      "kind": "illustration"
+    },
+    {
+      "page": 30,
+      "file": "p30.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 3628,
+      "kind": "illustration"
+    },
+    {
+      "page": 31,
+      "file": "p31.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 2716,
+      "kind": "illustration"
+    },
+    {
+      "page": 32,
+      "file": "p32.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 39,
+      "vectors": 1728,
+      "kind": "illustration"
+    },
+    {
+      "page": 33,
+      "file": "p33.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 3075,
+      "kind": "illustration"
+    },
+    {
+      "page": 34,
+      "file": "p34.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 24,
+      "vectors": 2331,
+      "kind": "illustration"
+    },
+    {
+      "page": 35,
+      "file": "p35.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 2,
+      "vectors": 2905,
+      "kind": "illustration"
+    },
+    {
+      "page": 36,
+      "file": "p36.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0,
+      "kind": "backmatter"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/ekenaset-fauteuil-kilanda-lichtbeige-90533174/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/ekenaset-fauteuil-kilanda-lichtbeige-90533174/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/ekenaset-fauteuil-kilanda-lichtbeige__AA-2332891-1-2.pdf",
+  "name": "EKENÄSET Fauteuil - Kilanda lichtbeige",
+  "color": "beige",
+  "category": "Loungestoelen",
+  "description": "EKENÄSET Fauteuil - Kilanda lichtbeige. Strakke lijnen en ondersteunend comfort, of je nu wilt lezen, met vrienden wilt praten of gewoon lekker wilt ontspannen. Door de hoge poten van massief hout kan je makkelijk onder de fauteuil stofzuigen of spullen eronder vandaan halen. Vaste bekleding.",
+  "dimensions": {
+    "width": "64 cm",
+    "height": "76 cm",
+    "depth": "78 cm"
+  },
+  "rating": "4.5",
+  "reviews": "107",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/90533174/PS01_S01_NV01/rqp3/glb_draco/04301bf21d839926a8df17e978fad457-90533174_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+  "pdf_bytes": 506416,
+  "page_count": 12,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 10,
+      "vectors": 75
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 191
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 83,
+      "vectors": 703
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 598
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 510
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 38,
+      "vectors": 982
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 876
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 64,
+      "vectors": 1293
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 50,
+      "vectors": 1077
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 41,
+      "vectors": 531
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 224
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2332891-1"
+  ],
+  "copyright_year": "2022",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20220217",
+  "slug": "ekenaset-fauteuil-kilanda-lichtbeige-90533174"
+}

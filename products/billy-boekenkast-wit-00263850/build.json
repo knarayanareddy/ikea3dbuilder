@@ -1,0 +1,809 @@
+{
+  "id": "billy-boekenkast-wit-00263850",
+  "version": 1,
+  "status": "draft",
+  "units": "cm",
+  "product": {
+    "name": "BILLY",
+    "typeName": "Boekenkast",
+    "article": "AA-1823127-9",
+    "dims": {
+      "w": 80,
+      "d": 28,
+      "h": 202,
+      "unit": "cm",
+      "text": "80x28x202 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/billy-boekenkast-wit-00263850/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/billy-boekenkast-wit__AA-1823127-9-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/billy-boekenkast-wit__1590272_pe1038911_s5.jpg",
+    "reviews": 177,
+    "rating": 4.4,
+    "copyrightYear": "2015"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "warnings"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "warnings"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "warnings"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "backmatter"
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "backmatter"
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "backmatter"
+      }
+    ],
+    "buildPages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "parts": [
+    {
+      "id": "SL",
+      "label": "Left side",
+      "kind": "panel",
+      "size": [
+        28,
+        202,
+        2.2
+      ],
+      "at": [
+        -38.9,
+        101.0,
+        0
+      ],
+      "rot": [
+        90,
+        90,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "SR",
+      "label": "Right side",
+      "kind": "panel",
+      "size": [
+        28,
+        202,
+        2.2
+      ],
+      "at": [
+        38.9,
+        101.0,
+        0
+      ],
+      "rot": [
+        90,
+        90,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "BOT",
+      "label": "Bottom",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        1.1,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "MID",
+      "label": "Fixed middle shelf",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        101.0,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "TOP",
+      "label": "Top",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        200.9,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "PL",
+      "label": "Plinth",
+      "kind": "panel",
+      "size": [
+        80,
+        9,
+        1.8
+      ],
+      "at": [
+        0,
+        4.5,
+        10.0
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "BK",
+      "label": "Back, folded in three",
+      "kind": "panel",
+      "size": [
+        76,
+        198,
+        0.3
+      ],
+      "at": [
+        0,
+        101.0,
+        -13.8
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "SH1",
+      "label": "Adjustable shelf 1",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        38,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "SH2",
+      "label": "Adjustable shelf 2",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        68,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "SH3",
+      "label": "Adjustable shelf 3",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        132,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "SH4",
+      "label": "Adjustable shelf 4",
+      "kind": "panel",
+      "size": [
+        80,
+        28,
+        2.2
+      ],
+      "at": [
+        0,
+        162,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "dowel",
+      "label": "Wooden dowel",
+      "count": 16,
+      "color": "#c9a24a",
+      "partNo": ""
+    },
+    {
+      "id": "camscrew",
+      "label": "Cam screw",
+      "count": 12,
+      "color": "#c9cdd2",
+      "partNo": ""
+    },
+    {
+      "id": "cam",
+      "label": "Cam lock",
+      "count": 12,
+      "color": "#cfc5b4",
+      "partNo": ""
+    },
+    {
+      "id": "nail",
+      "label": "Nail",
+      "count": 18,
+      "color": "#9aa3ad",
+      "partNo": ""
+    },
+    {
+      "id": "pin",
+      "label": "Shelf pin",
+      "count": 16,
+      "color": "#c9cdd2",
+      "partNo": ""
+    },
+    {
+      "id": "bracket",
+      "label": "Wall bracket",
+      "count": 2,
+      "color": "#c9cdd2",
+      "partNo": ""
+    },
+    {
+      "id": "screw",
+      "label": "Screw for bracket",
+      "count": 2,
+      "color": "#c9cdd2",
+      "partNo": ""
+    },
+    {
+      "id": "washer",
+      "label": "Washer",
+      "count": 4,
+      "color": "#c9cdd2",
+      "partNo": ""
+    }
+  ],
+  "steps": [
+    {
+      "title": "What is in the box",
+      "page": 5,
+      "box": [
+        0.048,
+        0.0322,
+        0.9495,
+        0.2509
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 13.144
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Two sides, a top, a bottom, a fixed shelf, a plinth, four shelves and a back folded in three, with 82 pieces of hardware. Lay it all out on something soft.",
+      "warn": ""
+    },
+    {
+      "title": "Dowels",
+      "page": 6,
+      "box": [
+        0.048,
+        0.0287,
+        0.9495,
+        0.589
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 13.144
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "dowel": 16
+      },
+      "prose": "Tap a wooden dowel into each hole in the inner face of both sides. The dowels only line things up; the cam locks do the clamping.",
+      "warn": ""
+    },
+    {
+      "title": "Cam screws, plinth, bottom, fixed shelf",
+      "page": 7,
+      "box": [
+        0.063,
+        0.0429,
+        0.952,
+        0.458
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          -1.556,
+          2.3,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 14.047
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "SL",
+        "PL",
+        "BOT",
+        "MID"
+      ],
+      "placeHardware": {
+        "camscrew": 12
+      },
+      "prose": "Screw a cam screw into every marked hole. Fit the plinth, the bottom and the fixed middle shelf onto the first side.",
+      "warn": ""
+    },
+    {
+      "title": "Lock four cams, fit the top",
+      "page": 8,
+      "box": [
+        0.053,
+        0.0305,
+        0.9495,
+        0.9288
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          -1.556,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 17.222
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "TOP"
+      ],
+      "placeHardware": {
+        "cam": 4
+      },
+      "prose": "Turn each cam lock half a turn clockwise to pull the joint tight, then fit the top board.",
+      "warn": ""
+    },
+    {
+      "title": "The second side, lock six more cams",
+      "page": 9,
+      "box": [
+        0.0655,
+        0.0322,
+        0.8195,
+        0.458
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 20.774
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "SR"
+      ],
+      "placeHardware": {
+        "cam": 8
+      },
+      "prose": "Bring the second side down onto the dowels and cam screws, then lock all six remaining cams.",
+      "warn": ""
+    },
+    {
+      "title": "Turn it over, slide the back in",
+      "page": 10,
+      "box": [
+        0.063,
+        0.0376,
+        0.9045,
+        0.5925
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 20.774
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "BK"
+      ],
+      "placeHardware": {},
+      "prose": "With help, turn the case face down. Slide the folded back panel into the grooves in all four boards.",
+      "warn": ""
+    },
+    {
+      "title": "Nail the back",
+      "page": 11,
+      "box": [
+        0.0655,
+        0.034,
+        0.822,
+        0.4014
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 20.774
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "nail": 18
+      },
+      "prose": "Nail the back panel along its edges. The back is what stops the case racking out of square.",
+      "warn": ""
+    },
+    {
+      "title": "Stand it up, fix it to the wall",
+      "page": 12,
+      "box": [
+        0.048,
+        0.0287,
+        0.9495,
+        0.9288
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 20.774
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "bracket": 2,
+        "screw": 2,
+        "washer": 4
+      },
+      "prose": "Stand the bookcase up and fix the two wall brackets. Screws and plugs for the wall are not included: use ones suited to your wall.",
+      "warn": ""
+    },
+    {
+      "title": "Shelf pins and shelves",
+      "page": 13,
+      "box": [
+        0.0655,
+        0.0393,
+        0.427,
+        0.8545
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 5,
+      "cam": {
+        "target": [
+          0.0,
+          4.04,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 20.774
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "SH1",
+        "SH2",
+        "SH3",
+        "SH4"
+      ],
+      "placeHardware": {
+        "pin": 16
+      },
+      "prose": "Push four shelf pins into the holes at the height you want, per shelf, then lay each shelf on its pins.",
+      "warn": ""
+    }
+  ],
+  "tags": [
+    {
+      "label": "2 sides",
+      "at": [
+        -56.0,
+        101.0,
+        0
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "Top, fixed shelf, bottom",
+      "at": [
+        0,
+        101.0,
+        46
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "Plinth",
+      "at": [
+        0,
+        6,
+        40
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "4 shelves",
+      "at": [
+        58.0,
+        100,
+        0
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "Back, folded in three",
+      "at": [
+        0,
+        101.0,
+        -46
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "82 pieces of hardware",
+      "at": [
+        0,
+        216,
+        0
+      ],
+      "color": "#ffb454"
+    }
+  ],
+  "notes": "Parts, counts, order and hardware come from IKEA manual AA-1823127-9. Board sizes are from the published 80x28x202 cm; panel thickness (2.2 cm), shelf heights and hole positions are read off the drawings, so they are close, not measured. Camera framing and page hotspots are still to be authored in the tool."
+}

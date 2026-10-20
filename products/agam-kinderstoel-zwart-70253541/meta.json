@@ -1,0 +1,93 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/agam-kinderstoel-zwart-70253541/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/agam-kinderstoel-zwart-70253541/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/agam-kinderstoel-zwart__AA-183046-9-2.pdf",
+  "name": "AGAM Kinderstoel - zwart",
+  "color": "zwart",
+  "category": "Hoge kinderstoelen",
+  "description": "AGAM Kinderstoel - zwart. Juiste zithoogte voor de eettafel. Aanbevolen voor kinderen vanaf 3 jaar. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+  "dimensions": {
+    "width": "41 cm",
+    "height": "79 cm",
+    "depth": "43 cm"
+  },
+  "rating": "4.6",
+  "reviews": "60",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/70253541/PS01_S01_NV01/iqp3/glb_draco/fd839c1006734e73866c089eaf999173-70253541_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+  "pdf_bytes": 1300695,
+  "page_count": 8,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 4,
+      "vectors": 275
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 58,
+      "vectors": 840
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 5,
+      "vectors": 896
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 34,
+      "vectors": 1263
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 39,
+      "vectors": 1152
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 51,
+      "vectors": 1307
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 40,
+      "vectors": 1977
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 62,
+      "vectors": 412
+    }
+  ],
+  "article": [
+    "AA-183046-9"
+  ],
+  "copyright_year": "2005",
+  "pdf_title": "Assembly Instruction",
+  "pdf_created": "20231218",
+  "slug": "agam-kinderstoel-zwart-70253541"
+}

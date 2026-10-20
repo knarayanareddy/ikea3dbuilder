@@ -1,0 +1,58 @@
+{
+  "slug": "marius-kruk-zwart-10135659",
+  "name": "MARIUS Kruk - zwart 45 cm",
+  "typeName": null,
+  "dims": null,
+  "article": [
+    "AA-302068-12"
+  ],
+  "copyright_year": "2007",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/marius-kruk-zwart__AA-302068-12-2.pdf",
+  "url": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+  "page_count": 4,
+  "build_pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_build_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 6,
+      "vectors": 142,
+      "kind": "illustration"
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 131,
+      "vectors": 1647,
+      "kind": "illustration"
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 103,
+      "vectors": 2235,
+      "kind": "illustration"
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 875,
+      "h": 1241,
+      "chars": 72,
+      "vectors": 1033,
+      "kind": "illustration"
+    }
+  ]
+}

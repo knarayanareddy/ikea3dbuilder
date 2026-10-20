@@ -1,0 +1,407 @@
+{
+  "id": "marius-kruk-zwart-10135659",
+  "version": 1,
+  "status": "review",
+  "units": "cm",
+  "product": {
+    "name": "MARIUS",
+    "typeName": "Kruk",
+    "article": "AA-302068-12",
+    "dims": {
+      "w": 34,
+      "d": 34,
+      "h": 45,
+      "unit": "cm",
+      "text": "34x34x45 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/marius-kruk-zwart-10135659/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/marius-kruk-zwart__AA-302068-12-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/marius-kruk-zwart__0727386_pe735638_s5.jpg",
+    "reviews": 138,
+    "rating": 4.6,
+    "copyrightYear": "2007"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      }
+    ],
+    "buildPages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "parts": [
+    {
+      "id": "SEAT",
+      "label": "Seat",
+      "kind": "panel",
+      "size": [
+        34.0,
+        34.0,
+        2.5
+      ],
+      "at": [
+        0.0,
+        43.75,
+        0.0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG1",
+      "label": "Leg 1",
+      "kind": "panel",
+      "size": [
+        3.5,
+        42.5,
+        3.5
+      ],
+      "at": [
+        -12.25,
+        21.25,
+        -12.25
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG2",
+      "label": "Leg 2",
+      "kind": "panel",
+      "size": [
+        3.5,
+        42.5,
+        3.5
+      ],
+      "at": [
+        12.25,
+        21.25,
+        -12.25
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG3",
+      "label": "Leg 3",
+      "kind": "panel",
+      "size": [
+        3.5,
+        42.5,
+        3.5
+      ],
+      "at": [
+        -12.25,
+        21.25,
+        12.25
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG4",
+      "label": "Leg 4",
+      "kind": "panel",
+      "size": [
+        3.5,
+        42.5,
+        3.5
+      ],
+      "at": [
+        12.25,
+        21.25,
+        12.25
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "screw",
+      "label": "Screw",
+      "partNo": "109566",
+      "count": 4,
+      "color": "#c9cdd2"
+    },
+    {
+      "id": "bolt",
+      "label": "Bolt",
+      "partNo": "104875",
+      "count": 4,
+      "color": "#9aa3ad"
+    }
+  ],
+  "steps": [
+    {
+      "title": "What is in the box",
+      "page": 1,
+      "box": [
+        0.088,
+        0.0674,
+        0.6495,
+        0.1672
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.9,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.951
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "A seat, four legs, four screws (109566) and four bolts (104875). Max load 110 kg.",
+      "warn": ""
+    },
+    {
+      "title": "Turn the seat over",
+      "page": 1,
+      "box": [
+        0.1755,
+        0.2261,
+        0.9245,
+        0.9644
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.9,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.951
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Lay the seat face down on something soft so you can reach the leg holes.",
+      "warn": ""
+    },
+    {
+      "title": "Fit the legs",
+      "page": 2,
+      "box": [
+        0.073,
+        0.048,
+        0.9245,
+        0.4653
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.85,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.485
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "LEG1",
+        "LEG2",
+        "LEG3",
+        "LEG4"
+      ],
+      "placeHardware": {},
+      "prose": "Seat each leg in its corner socket, hand-tight.",
+      "warn": ""
+    },
+    {
+      "title": "Screw and bolt each leg",
+      "page": 2,
+      "box": [
+        0.073,
+        0.473,
+        0.9245,
+        0.6804
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.85,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.485
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {
+        "screw": 4,
+        "bolt": 4
+      },
+      "prose": "A screw and a bolt per leg. Do not fully tighten yet.",
+      "warn": ""
+    },
+    {
+      "title": "Tighten and stand it up",
+      "page": 2,
+      "box": [
+        0.0755,
+        0.6882,
+        0.9245,
+        0.8903
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.9,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.951
+      },
+      "camSource": "auto",
+      "placeParts": [
+        "SEAT"
+      ],
+      "placeHardware": {},
+      "prose": "Go round all four legs and tighten, then turn the stool the right way up.",
+      "warn": ""
+    },
+    {
+      "title": "Check it is level",
+      "page": 3,
+      "box": [
+        0.0955,
+        0.0356,
+        0.9095,
+        0.9644
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.9,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.951
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Set it on a flat floor and check all four legs touch.",
+      "warn": ""
+    },
+    {
+      "title": "Done",
+      "page": 4,
+      "box": [
+        0.073,
+        0.048,
+        0.9245,
+        0.8903
+      ],
+      "boxSource": "auto",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          0.9,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.951
+      },
+      "camSource": "auto",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "34x34x45 cm. Rated to 110 kg.",
+      "warn": ""
+    }
+  ],
+  "tags": [],
+  "notes": "Hardware counts and part numbers read from the PDF text layer (4x 109566, 4x 104875, load 110 kg); further part numbers 10004961 / 108184 / 1012307x / 1012837x are on the page but their roles are unconfirmed. Board sizes and leg sections are PROVISIONAL and estimated from the 45 cm height - measure a real stool before trusting the 3D. Hotspots are the coarse pass; the row of four callouts on page 2 was merged into one box. Prose needs a reader who can see the drawings."
+}

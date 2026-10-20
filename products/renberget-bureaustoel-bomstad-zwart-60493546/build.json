@@ -1,0 +1,497 @@
+{
+  "id": "renberget-bureaustoel-bomstad-zwart-60493546",
+  "version": 1,
+  "status": "draft",
+  "units": "cm",
+  "product": {
+    "name": "RENBERGET Bureaustoel - Bomstad zwart",
+    "typeName": "Bureaustoel",
+    "article": "AA-2261288-4",
+    "dims": {
+      "unit": "cm",
+      "text": null
+    },
+    "url": "https://www.ikea.com/nl/nl/p/renberget-bureaustoel-bomstad-zwart-60493546/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/renberget-bureaustoel-bomstad-zwart__AA-2261288-4-2.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/renberget-bureaustoel-bomstad-zwart__1020135_pe831794_s5.jpg",
+    "reviews": 59,
+    "rating": 4.0,
+    "copyrightYear": "2021"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 2,
+        "file": "p02.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "other"
+      },
+      {
+        "page": 3,
+        "file": "p03.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 4,
+        "file": "p04.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 5,
+        "file": "p05.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 6,
+        "file": "p06.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 7,
+        "file": "p07.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 8,
+        "file": "p08.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "mixed"
+      },
+      {
+        "page": 9,
+        "file": "p09.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "mixed"
+      },
+      {
+        "page": 10,
+        "file": "p10.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "mixed"
+      },
+      {
+        "page": 11,
+        "file": "p11.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 12,
+        "file": "p12.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 13,
+        "file": "p13.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 14,
+        "file": "p14.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 15,
+        "file": "p15.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "illustration"
+      },
+      {
+        "page": 16,
+        "file": "p16.webp",
+        "w": 875,
+        "h": 1241,
+        "kind": "backmatter"
+      }
+    ],
+    "buildPages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      12,
+      13,
+      14,
+      15,
+      8,
+      9,
+      10
+    ]
+  },
+  "parts": [],
+  "hardware": [],
+  "steps": [
+    {
+      "title": "Page 1",
+      "page": 1,
+      "box": [
+        0.088,
+        0.0674,
+        0.9095,
+        0.1672
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 3",
+      "page": 3,
+      "box": [
+        0.098,
+        0.0497,
+        0.232,
+        0.2695
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 4",
+      "page": 4,
+      "box": [
+        0.0755,
+        0.048,
+        0.9295,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 5",
+      "page": 5,
+      "box": [
+        0.078,
+        0.048,
+        0.9295,
+        0.4388
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 6",
+      "page": 6,
+      "box": [
+        0.0755,
+        0.0497,
+        0.927,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 7",
+      "page": 7,
+      "box": [
+        0.253,
+        0.048,
+        0.342,
+        0.3912
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 11",
+      "page": 11,
+      "box": [
+        0.1005,
+        0.1256,
+        0.8695,
+        0.781
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 12",
+      "page": 12,
+      "box": [
+        0.088,
+        0.1256,
+        0.892,
+        0.8815
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 13",
+      "page": 13,
+      "box": [
+        0.098,
+        0.048,
+        0.932,
+        0.8903
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 14",
+      "page": 14,
+      "box": [
+        0.078,
+        0.048,
+        0.932,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 15",
+      "page": 15,
+      "box": [
+        0.0755,
+        0.048,
+        0.9295,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 8",
+      "page": 8,
+      "box": [
+        0.073,
+        0.048,
+        0.927,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 9",
+      "page": 9,
+      "box": [
+        0.073,
+        0.048,
+        0.927,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    },
+    {
+      "title": "Page 10",
+      "page": 10,
+      "box": [
+        0.073,
+        0.048,
+        0.927,
+        0.8921
+      ],
+      "duration": 4,
+      "cam": {
+        "target": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 9.06
+      },
+      "prose": "",
+      "boxSource": "auto",
+      "camSource": "auto"
+    }
+  ],
+  "tags": [],
+  "notes": ""
+}

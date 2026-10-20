@@ -1,0 +1,253 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon__AA-1914760-9-2.pdf",
+  "name": "EKET Kast met 2 deuren en 1 plank - bruin walnootpatroon 70x35x70 cm",
+  "color": null,
+  "category": "EKET kasten",
+  "description": "EKET Kast met 2 deuren en 1 plank - bruin walnootpatroon 70x35x70 cm. Een enkele eenheid kan voldoende opbergruimte bieden voor een beperkte ruimte of de basis vormen voor een grotere opberger als je behoeftes veranderen. IKEA of Sweden AB SE-343 81 Älmhult, IKEA.com",
+  "dimensions": {
+    "width": "70 cm",
+    "height": "70 cm",
+    "depth": "35 cm"
+  },
+  "rating": "2.9",
+  "reviews": "158",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/20574587/PS01_S01_NV01/rqp3/glb_draco/9a47536148288f2bf837ef88bde0fb1b-20574587_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+  "pdf_bytes": 2747335,
+  "page_count": 28,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 4,
+      "vectors": 91
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 7631,
+      "vectors": 3
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 7915,
+      "vectors": 3
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 6781,
+      "vectors": 3
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 1521,
+      "vectors": 880
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 80,
+      "vectors": 641
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 163,
+      "vectors": 4067
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 675
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 45,
+      "vectors": 1468
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 874
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 10,
+      "vectors": 505
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 46,
+      "vectors": 908
+    },
+    {
+      "page": 13,
+      "file": "p13.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 906
+    },
+    {
+      "page": 14,
+      "file": "p14.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 600
+    },
+    {
+      "page": 15,
+      "file": "p15.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 25,
+      "vectors": 1734
+    },
+    {
+      "page": 16,
+      "file": "p16.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 30,
+      "vectors": 846
+    },
+    {
+      "page": 17,
+      "file": "p17.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 8,
+      "vectors": 227
+    },
+    {
+      "page": 18,
+      "file": "p18.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 20,
+      "vectors": 191
+    },
+    {
+      "page": 19,
+      "file": "p19.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 40,
+      "vectors": 5293
+    },
+    {
+      "page": 20,
+      "file": "p20.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 533
+    },
+    {
+      "page": 21,
+      "file": "p21.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 28,
+      "vectors": 458
+    },
+    {
+      "page": 22,
+      "file": "p22.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 21,
+      "vectors": 137
+    },
+    {
+      "page": 23,
+      "file": "p23.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 71,
+      "vectors": 1073
+    },
+    {
+      "page": 24,
+      "file": "p24.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 48,
+      "vectors": 508
+    },
+    {
+      "page": 25,
+      "file": "p25.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 39,
+      "vectors": 367
+    },
+    {
+      "page": 26,
+      "file": "p26.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 27,
+      "vectors": 605
+    },
+    {
+      "page": 27,
+      "file": "p27.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 5,
+      "vectors": 140
+    },
+    {
+      "page": 28,
+      "file": "p28.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 419
+    }
+  ],
+  "article": [
+    "AA-1914760-9"
+  ],
+  "copyright_year": "2016",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20250326",
+  "slug": "eket-kast-met-2-deuren-en-1-plank-bruin-walnootpatroon-20574587"
+}

@@ -1,0 +1,319 @@
+{
+  "id": "lack-tafeltje-wit-30449908",
+  "version": 1,
+  "status": "draft",
+  "units": "cm",
+  "product": {
+    "name": "LACK",
+    "typeName": "Tafeltje",
+    "article": "AA-207276-4",
+    "dims": {
+      "w": 55,
+      "d": 55,
+      "h": 45,
+      "unit": "cm",
+      "text": "55x55x45 cm"
+    },
+    "url": "https://www.ikea.com/nl/nl/p/lack-tafeltje-wit-30449908/",
+    "pdfUrl": "https://www.ikea.com/nl/nl/assembly_instructions/lack-tafeltje-wit__AA-207276-4-1.pdf",
+    "image": "https://www.ikea.com/nl/nl/images/products/lack-tafeltje-wit__0702210_pe724345_s5.jpg",
+    "reviews": 174,
+    "rating": 4.7,
+    "copyrightYear": "2006"
+  },
+  "manual": {
+    "dir": "manual",
+    "dpi": 150,
+    "pages": [
+      {
+        "page": 1,
+        "file": "p01.webp",
+        "w": 1241,
+        "h": 1754,
+        "kind": "illustration"
+      }
+    ],
+    "buildPages": [
+      1
+    ]
+  },
+  "parts": [
+    {
+      "id": "TOP",
+      "label": "Tabletop",
+      "kind": "panel",
+      "size": [
+        55,
+        55,
+        3.5
+      ],
+      "at": [
+        0,
+        43.25,
+        0
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG1",
+      "label": "Leg 1",
+      "kind": "panel",
+      "size": [
+        5,
+        41.5,
+        5
+      ],
+      "at": [
+        -19,
+        20.75,
+        -19
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG2",
+      "label": "Leg 2",
+      "kind": "panel",
+      "size": [
+        5,
+        41.5,
+        5
+      ],
+      "at": [
+        19,
+        20.75,
+        -19
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG3",
+      "label": "Leg 3",
+      "kind": "panel",
+      "size": [
+        5,
+        41.5,
+        5
+      ],
+      "at": [
+        -19,
+        20.75,
+        19
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    },
+    {
+      "id": "LEG4",
+      "label": "Leg 4",
+      "kind": "panel",
+      "size": [
+        5,
+        41.5,
+        5
+      ],
+      "at": [
+        19,
+        20.75,
+        19
+      ],
+      "rot": [
+        90,
+        0,
+        0
+      ],
+      "count": 1,
+      "color": "#f2ede3",
+      "keys": []
+    }
+  ],
+  "hardware": [
+    {
+      "id": "screw",
+      "label": "Double-ended screw",
+      "count": 4,
+      "color": "#c9cdd2",
+      "partNo": ""
+    }
+  ],
+  "steps": [
+    {
+      "title": "What is in the box",
+      "page": 1,
+      "box": [
+        0.3355,
+        0.1738,
+        0.6645,
+        0.2456
+      ],
+      "boxSource": "human",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0,
+          0.35,
+          0
+        ],
+        "yaw": -0.5,
+        "pitch": 0.55,
+        "dist": 4.2
+      },
+      "camSource": "human",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "A tabletop, four legs and four double-ended screws. No tools: this one goes together by hand. Lay the top face down on something soft.",
+      "warn": ""
+    },
+    {
+      "title": "Screw into the top",
+      "page": 1,
+      "box": [
+        0.333,
+        0.2429,
+        0.667,
+        0.4987
+      ],
+      "boxSource": "human",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0,
+          0.3,
+          0
+        ],
+        "yaw": -0.4,
+        "pitch": 0.7,
+        "dist": 3
+      },
+      "camSource": "human",
+      "placeParts": [
+        "TOP"
+      ],
+      "placeHardware": {
+        "screw": 4
+      },
+      "prose": "Screw a double-ended screw into each corner hole in the underside of the top, by hand, until it is halfway in.",
+      "warn": ""
+    },
+    {
+      "title": "Twist the legs on",
+      "page": 1,
+      "box": [
+        0.3005,
+        0.4942,
+        0.5045,
+        0.6226
+      ],
+      "boxSource": "human",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0,
+          0.6,
+          0
+        ],
+        "yaw": -0.45,
+        "pitch": 0.35,
+        "dist": 3.2
+      },
+      "camSource": "human",
+      "placeParts": [
+        "LEG1",
+        "LEG2",
+        "LEG3",
+        "LEG4"
+      ],
+      "placeHardware": {},
+      "prose": "Twist a leg onto each screw, clockwise, until it sits tight against the top.",
+      "warn": ""
+    },
+    {
+      "title": "Turn it over",
+      "page": 1,
+      "box": [
+        0.5555,
+        0.4942,
+        0.7445,
+        0.6226
+      ],
+      "boxSource": "human",
+      "kind": null,
+      "duration": 4,
+      "cam": {
+        "target": [
+          0,
+          0.9,
+          0
+        ],
+        "yaw": -0.5,
+        "pitch": 0.18,
+        "dist": 3.8
+      },
+      "camSource": "human",
+      "placeParts": [],
+      "placeHardware": {},
+      "prose": "Turn the table the right way up. Done: 55x55x45 cm. It is a delicate table - no sitting, and 10 kg on the top at most.",
+      "warn": ""
+    }
+  ],
+  "tags": [
+    {
+      "label": "Tabletop",
+      "at": [
+        0,
+        51,
+        0
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "4 legs",
+      "at": [
+        41.5,
+        20.75,
+        0
+      ],
+      "color": "#7fe3ff"
+    },
+    {
+      "label": "4 double-ended screws",
+      "at": [
+        -41.5,
+        4,
+        0
+      ],
+      "color": "#ffb454"
+    }
+  ],
+  "notes": "55x55 cm and the 10 kg limit are IKEA's own product text; 45 cm is the published LACK side-table height. Part number 115980 is NOT set here: it is extractable from the current US manual (AA-2606170-1) but this 2006 NL page is pure vector art with no text, so it needs confirming against the drawing. Hotspot boxes are the fine pass of suggest_boxes.py; the mapping of the two lower panels to 'legs on' and 'turn it over' is inferred from reading order and wants a human eye. The face-down/turn-over choreography needs parented keyframes, which the schema supports but the viewer does not yet play."
+}

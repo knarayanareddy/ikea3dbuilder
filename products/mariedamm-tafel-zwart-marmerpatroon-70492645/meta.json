@@ -1,0 +1,123 @@
+{
+  "query": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+  "resolved_by": "url",
+  "url": "https://www.ikea.com/nl/nl/p/mariedamm-tafel-zwart-marmerpatroon-70492645/",
+  "pdf_url": "https://www.ikea.com/nl/nl/assembly_instructions/mariedamm-tafel-zwart-marmerpatroon__AA-2521672-2-2.pdf",
+  "name": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm",
+  "color": "zwart",
+  "category": "Ronde eettafels",
+  "description": "MARIEDAMM Tafel - zwart marmerpatroon 105 cm. Niet al te grote afmetingen, dus ook geschikt voor kleinere ruimtes. Een ronde tafel met afgeronde randen geeft de kamer een ontspannen indruk. Het matte oppervlak beschermt tegen vingerafdrukken en is waterafstotend. Plaats voor 2-4 personen.",
+  "dimensions": {
+    "height": "75 cm"
+  },
+  "rating": "4.7",
+  "reviews": "106",
+  "glb": "https://web-api.ikea.com/dimma/assets/1.2/70492645/PS01_S01_NV01/rqp3/glb_draco/0ce86a14a51522c73bae40d66f75eaf0-70492645_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+  "pdf_bytes": 2665816,
+  "page_count": 12,
+  "pages": [
+    {
+      "page": 1,
+      "file": "p01.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 9,
+      "vectors": 219
+    },
+    {
+      "page": 2,
+      "file": "p02.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 14,
+      "vectors": 162
+    },
+    {
+      "page": 3,
+      "file": "p03.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 135,
+      "vectors": 472
+    },
+    {
+      "page": 4,
+      "file": "p04.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 49,
+      "vectors": 385
+    },
+    {
+      "page": 5,
+      "file": "p05.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 52,
+      "vectors": 937
+    },
+    {
+      "page": 6,
+      "file": "p06.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 42,
+      "vectors": 2984
+    },
+    {
+      "page": 7,
+      "file": "p07.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 2809
+    },
+    {
+      "page": 8,
+      "file": "p08.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 35,
+      "vectors": 2733
+    },
+    {
+      "page": 9,
+      "file": "p09.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 22,
+      "vectors": 2681
+    },
+    {
+      "page": 10,
+      "file": "p10.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 54,
+      "vectors": 960
+    },
+    {
+      "page": 11,
+      "file": "p11.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 15,
+      "vectors": 1466
+    },
+    {
+      "page": 12,
+      "file": "p12.webp",
+      "w": 1241,
+      "h": 1754,
+      "chars": 57,
+      "vectors": 0
+    }
+  ],
+  "article": [
+    "AA-2521672-2"
+  ],
+  "copyright_year": "2024",
+  "pdf_title": "Assembly instruction",
+  "pdf_created": "20240705",
+  "slug": "mariedamm-tafel-zwart-marmerpatroon-70492645"
+}
